@@ -1,0 +1,4 @@
+Patient Name: John Doe
+Diagnosis: Stage II breast cancer
+Treatment: Chemotherapy and radiation.
+Follow-up: Return in 3 months.

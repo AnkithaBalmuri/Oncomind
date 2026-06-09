@@ -1,0 +1,600 @@
+# 6. Prostate Cancer
+
+## Overview
+
+Prostate cancer is a type of cancer that develops in the **prostate gland**, a small walnut-shaped gland found only in males. The prostate is part of the male reproductive system and produces seminal fluid, which nourishes and transports sperm.
+
+Prostate cancer is one of the most common cancers among men worldwide. Most prostate cancers grow slowly and remain confined to the prostate gland for many years. However, some forms are aggressive and can spread rapidly to other parts of the body.
+
+Early detection and appropriate treatment significantly improve outcomes.
+
+---
+
+# What is the Prostate Gland?
+
+The prostate is located:
+
+* Below the urinary bladder
+* In front of the rectum
+* Around the urethra (the tube that carries urine out of the body)
+
+### Functions of the Prostate
+
+* Produces seminal fluid
+* Supports sperm survival
+* Helps transport sperm during ejaculation
+
+As men age, the prostate may enlarge naturally, but enlargement does not necessarily mean cancer.
+
+---
+
+# What is Prostate Cancer?
+
+Prostate cancer occurs when cells in the prostate gland undergo genetic changes and begin to grow uncontrollably.
+
+### Cancer Development Process
+
+1. DNA mutations occur in prostate cells.
+2. Abnormal cells multiply rapidly.
+3. Tumors form within the prostate.
+4. Cancer may invade nearby tissues.
+5. Advanced cancer can spread (metastasize) to distant organs.
+
+---
+
+# Types of Prostate Cancer
+
+## 1. Adenocarcinoma
+
+### Overview
+
+Accounts for more than 95% of prostate cancer cases.
+
+### Origin
+
+Develops from glandular cells responsible for producing prostate fluid.
+
+---
+
+## 2. Small Cell Carcinoma
+
+Rare and aggressive type.
+
+Characteristics:
+
+* Rapid growth
+* Often diagnosed at advanced stages
+
+---
+
+## 3. Neuroendocrine Tumors
+
+Rare cancers arising from neuroendocrine cells.
+
+---
+
+## 4. Transitional Cell Carcinoma
+
+May develop near the urethra and bladder.
+
+---
+
+## 5. Sarcoma
+
+Very rare cancer arising from connective tissues of the prostate.
+
+---
+
+# Risk Factors
+
+## Age
+
+The strongest risk factor.
+
+Risk increases significantly after age 50.
+
+---
+
+## Family History
+
+Risk is higher if:
+
+* Father had prostate cancer
+* Brother had prostate cancer
+* Multiple relatives affected
+
+---
+
+## Genetic Factors
+
+Inherited mutations may increase risk.
+
+Examples include:
+
+* BRCA1
+* BRCA2
+* HOXB13
+
+---
+
+## Ethnicity
+
+Risk varies among populations.
+
+Some ethnic groups have:
+
+* Higher incidence
+* More aggressive disease
+
+---
+
+## Obesity
+
+May increase the likelihood of advanced disease.
+
+---
+
+## Diet
+
+Possible risk factors include:
+
+* High-fat diets
+* Excess red meat consumption
+* Low fruit and vegetable intake
+
+---
+
+# Causes
+
+The exact cause of prostate cancer remains unclear.
+
+Researchers believe it results from:
+
+* Genetic mutations
+* Hormonal influences
+* Aging processes
+* Environmental factors
+
+Cancer develops when abnormal prostate cells escape normal growth controls.
+
+---
+
+# Signs and Symptoms
+
+Early prostate cancer often causes no symptoms.
+
+When symptoms occur, they may include:
+
+---
+
+## Urinary Symptoms
+
+### Frequent Urination
+
+Especially during the night.
+
+---
+
+### Difficulty Starting Urination
+
+Weak urine stream.
+
+---
+
+### Interrupted Urine Flow
+
+Stopping and starting during urination.
+
+---
+
+### Painful Urination
+
+Burning or discomfort.
+
+---
+
+## Blood in Urine
+
+Known as hematuria.
+
+---
+
+## Blood in Semen
+
+Can occasionally occur.
+
+---
+
+## Erectile Dysfunction
+
+Difficulty achieving or maintaining an erection.
+
+---
+
+## Pelvic Discomfort
+
+Pain or pressure in the pelvic area.
+
+---
+
+## Bone Pain
+
+May indicate metastatic disease.
+
+Common sites:
+
+* Spine
+* Pelvis
+* Ribs
+
+---
+
+# Screening and Early Detection
+
+## Prostate-Specific Antigen (PSA) Test
+
+### What is PSA?
+
+PSA is a protein produced by prostate cells.
+
+### PSA Blood Test
+
+Measures PSA levels in the blood.
+
+Elevated PSA may be caused by:
+
+* Prostate cancer
+* Benign prostate enlargement
+* Infection
+* Inflammation
+
+PSA testing is useful but not diagnostic by itself.
+
+---
+
+## Digital Rectal Examination (DRE)
+
+A healthcare provider examines the prostate through the rectum.
+
+Can identify:
+
+* Lumps
+* Hard areas
+* Enlargement
+
+---
+
+# Diagnosis
+
+## Medical History
+
+Assessment of:
+
+* Symptoms
+* Family history
+* Risk factors
+
+---
+
+## Physical Examination
+
+Includes DRE.
+
+---
+
+## PSA Testing
+
+Provides initial screening information.
+
+---
+
+## MRI Scan
+
+Multiparametric MRI helps identify suspicious areas.
+
+---
+
+## Prostate Biopsy
+
+### Definition
+
+Removal of small tissue samples from the prostate.
+
+### Importance
+
+A biopsy is required to confirm prostate cancer.
+
+---
+
+# Gleason Score
+
+The Gleason Score measures how abnormal prostate cancer cells appear under a microscope.
+
+## Scoring System
+
+Scores range from:
+
+* 6 (less aggressive)
+* 7 (intermediate)
+* 8–10 (highly aggressive)
+
+Higher scores indicate faster-growing cancers.
+
+---
+
+# Prostate Cancer Staging
+
+## Stage I
+
+* Small tumor
+* Limited to prostate
+* Slow-growing
+
+---
+
+## Stage II
+
+* Larger tumor
+* Still confined to prostate
+
+---
+
+## Stage III
+
+* Cancer extends beyond the prostate capsule
+
+---
+
+## Stage IV
+
+Cancer has spread to:
+
+* Lymph nodes
+* Bones
+* Other organs
+
+---
+
+# TNM Staging System
+
+### T (Tumor)
+
+Size and local extent.
+
+### N (Nodes)
+
+Lymph node involvement.
+
+### M (Metastasis)
+
+Spread to distant organs.
+
+---
+
+# Treatment Options
+
+Treatment depends on:
+
+* Age
+* Health status
+* Cancer stage
+* Gleason Score
+* PSA level
+
+---
+
+## Active Surveillance
+
+Used for low-risk cancers.
+
+### Includes
+
+* Regular PSA tests
+* Repeat imaging
+* Periodic biopsies
+
+Allows monitoring without immediate treatment.
+
+---
+
+## Surgery
+
+### Radical Prostatectomy
+
+Removal of:
+
+* Entire prostate gland
+* Nearby tissues
+
+Suitable for localized disease.
+
+---
+
+## Radiation Therapy
+
+Uses high-energy radiation to destroy cancer cells.
+
+### Types
+
+#### External Beam Radiation Therapy (EBRT)
+
+Radiation delivered from outside the body.
+
+#### Brachytherapy
+
+Radioactive seeds placed inside the prostate.
+
+---
+
+## Hormone Therapy
+
+Also called androgen deprivation therapy (ADT).
+
+### Purpose
+
+Reduces testosterone levels because prostate cancer often depends on testosterone for growth.
+
+Examples include:
+
+* Leuprolide
+* Goserelin
+
+---
+
+## Chemotherapy
+
+Used for advanced or metastatic disease.
+
+Examples:
+
+* Docetaxel
+* Cabazitaxel
+
+---
+
+## Targeted Therapy
+
+Used in selected patients with specific genetic mutations.
+
+Examples:
+
+* Olaparib
+* Rucaparib
+
+---
+
+## Immunotherapy
+
+May benefit selected advanced cases.
+
+Example:
+
+* Sipuleucel-T
+
+---
+
+# Side Effects of Treatment
+
+## Surgery
+
+* Urinary incontinence
+* Erectile dysfunction
+* Infection
+
+---
+
+## Radiation Therapy
+
+* Fatigue
+* Urinary irritation
+* Bowel problems
+
+---
+
+## Hormone Therapy
+
+* Hot flashes
+* Weight gain
+* Bone thinning
+* Reduced libido
+
+---
+
+## Chemotherapy
+
+* Hair loss
+* Fatigue
+* Increased infection risk
+
+---
+
+# Prevention
+
+There is no guaranteed way to prevent prostate cancer.
+
+Risk reduction strategies include:
+
+### Healthy Diet
+
+Consume:
+
+* Fruits
+* Vegetables
+* Whole grains
+
+---
+
+### Exercise
+
+Regular physical activity supports overall health.
+
+---
+
+### Healthy Weight
+
+Reduces risk of aggressive disease.
+
+---
+
+### Regular Medical Checkups
+
+Important for high-risk individuals.
+
+---
+
+# Prognosis
+
+Prostate cancer often has an excellent prognosis when detected early.
+
+### Localized Disease
+
+Very high survival rates.
+
+### Advanced Disease
+
+May not be curable but can often be managed for many years using modern treatments.
+
+---
+
+# Living with Prostate Cancer
+
+Supportive care may include:
+
+### Nutritional Support
+
+Maintaining healthy eating habits.
+
+---
+
+### Physical Activity Programs
+
+Improving strength and quality of life.
+
+---
+
+### Mental Health Support
+
+Managing anxiety and emotional challenges.
+
+---
+
+### Survivorship Care
+
+Long-term monitoring after treatment.
+
+---
+
+# Key Takeaways
+
+* Prostate cancer develops in the prostate gland and is one of the most common cancers in men.
+* Most cases are adenocarcinomas arising from glandular cells.
+* Major risk factors include age, family history, genetic mutations, and lifestyle factors.
+* Early-stage disease often has no symptoms.
+* PSA testing and digital rectal examination are important screening tools.
+* Diagnosis requires a prostate biopsy.
+* The Gleason Score helps determine cancer aggressiveness.
+* Treatment options include active surveillance, surgery, radiation therapy, hormone therapy, chemotherapy, targeted therapy, and immunotherapy.
+* Early detection significantly improves outcomes.
+* Many men with localized prostate cancer live long and healthy lives after treatment.
+
+This document can serve as the complete **Prostate Cancer** knowledge-base article for your Cancer RAG chatbot.

@@ -1,0 +1,602 @@
+# 3. Breast Cancer
+
+## Overview
+
+Breast cancer is a disease in which abnormal cells in the breast grow uncontrollably and form a tumor. It is one of the most common cancers worldwide and the most frequently diagnosed cancer among women. Although it is much more common in women, men can also develop breast cancer.
+
+Early detection through screening and awareness significantly improves treatment outcomes and survival rates.
+
+---
+
+# What is Breast Cancer?
+
+The breast is made up of:
+
+* Lobules (milk-producing glands)
+* Ducts (tubes that carry milk to the nipple)
+* Fatty tissue
+* Connective tissue
+* Blood vessels
+* Lymphatic vessels
+
+Breast cancer most commonly begins in:
+
+### Ductal Cells
+
+Cancer that starts in the milk ducts is called **Ductal Carcinoma**.
+
+### Lobular Cells
+
+Cancer that starts in the milk-producing glands is called **Lobular Carcinoma**.
+
+Cancer can remain confined to its original location or spread to nearby tissues and distant organs through the blood and lymphatic systems.
+
+---
+
+# Anatomy of the Breast
+
+The breast contains:
+
+### Lobules
+
+Produce breast milk.
+
+### Ducts
+
+Transport milk to the nipple.
+
+### Nipple
+
+Opening through which milk exits.
+
+### Areola
+
+Pigmented area surrounding the nipple.
+
+### Lymph Nodes
+
+Help fight infections and are important pathways for cancer spread.
+
+Common lymph node locations:
+
+* Axillary (underarm)
+* Internal mammary
+* Supraclavicular
+
+---
+
+# Types of Breast Cancer
+
+## 1. Ductal Carcinoma In Situ (DCIS)
+
+### Definition
+
+A non-invasive cancer confined to the milk ducts.
+
+### Characteristics
+
+* Early-stage cancer
+* Has not spread outside ducts
+* Highly treatable
+
+---
+
+## 2. Invasive Ductal Carcinoma (IDC)
+
+### Definition
+
+Cancer that begins in the ducts and spreads into surrounding breast tissue.
+
+### Characteristics
+
+* Most common type
+* Accounts for approximately 70–80% of cases
+
+---
+
+## 3. Invasive Lobular Carcinoma (ILC)
+
+### Definition
+
+Cancer originating in lobules that invades surrounding tissue.
+
+### Characteristics
+
+* Second most common type
+* May affect both breasts
+
+---
+
+## 4. Triple-Negative Breast Cancer (TNBC)
+
+### Definition
+
+Cancer cells lack:
+
+* Estrogen receptors (ER)
+* Progesterone receptors (PR)
+* HER2 protein
+
+### Characteristics
+
+* More aggressive
+* Fewer targeted treatment options
+* More common in younger women
+
+---
+
+## 5. HER2-Positive Breast Cancer
+
+### Definition
+
+Cancer cells produce excessive HER2 protein.
+
+### Characteristics
+
+* Rapid growth
+* Responds to HER2-targeted therapies
+
+---
+
+## 6. Inflammatory Breast Cancer
+
+### Definition
+
+A rare and aggressive form.
+
+### Symptoms
+
+* Redness
+* Swelling
+* Warmth
+* Skin thickening
+
+---
+
+## 7. Male Breast Cancer
+
+### Definition
+
+Breast cancer occurring in men.
+
+### Characteristics
+
+* Rare
+* Usually diagnosed later due to low awareness
+
+---
+
+# Risk Factors
+
+## Non-Modifiable Risk Factors
+
+### Gender
+
+Women are at much higher risk.
+
+### Age
+
+Risk increases with age.
+
+### Family History
+
+Risk increases if close relatives have had breast cancer.
+
+### Genetic Mutations
+
+Important inherited mutations:
+
+* BRCA1
+* BRCA2
+* PALB2
+
+### Personal History
+
+Previous breast cancer increases future risk.
+
+### Dense Breast Tissue
+
+Makes cancer harder to detect and slightly increases risk.
+
+---
+
+## Modifiable Risk Factors
+
+### Obesity
+
+Especially after menopause.
+
+### Physical Inactivity
+
+Lack of exercise increases risk.
+
+### Alcohol Consumption
+
+Risk rises with increasing alcohol intake.
+
+### Smoking
+
+May contribute to increased risk.
+
+### Hormone Replacement Therapy
+
+Long-term use can increase risk.
+
+---
+
+# Signs and Symptoms
+
+## Early Symptoms
+
+Many patients have no symptoms initially.
+
+---
+
+## Common Symptoms
+
+### Breast Lump
+
+Most common symptom.
+
+Characteristics:
+
+* Usually painless
+* Hard or irregular
+
+---
+
+### Breast Swelling
+
+Part or all of the breast may swell.
+
+---
+
+### Skin Changes
+
+Examples:
+
+* Dimpling
+* Thickening
+* Orange-peel appearance (Peau d’orange)
+
+---
+
+### Nipple Changes
+
+* Inversion
+* Retraction
+* Crusting
+
+---
+
+### Nipple Discharge
+
+Especially bloody discharge.
+
+---
+
+### Underarm Lump
+
+May indicate lymph node involvement.
+
+---
+
+# Causes and Development
+
+Breast cancer develops due to DNA mutations that cause cells to grow uncontrollably.
+
+Mutations may result from:
+
+* Aging
+* Environmental factors
+* Hormonal influences
+* Inherited genetic defects
+
+Over time:
+
+1. Normal cells mutate.
+2. Abnormal cells multiply.
+3. Tumor forms.
+4. Cancer invades nearby tissue.
+5. Metastasis may occur.
+
+---
+
+# Breast Cancer Screening
+
+## Mammography
+
+### Definition
+
+Low-dose X-ray examination of the breast.
+
+### Benefits
+
+* Detects cancer before symptoms appear.
+* Reduces mortality.
+
+---
+
+## Clinical Breast Examination
+
+Performed by healthcare professionals.
+
+---
+
+## Breast Self-Awareness
+
+Individuals should be familiar with the normal appearance and feel of their breasts.
+
+---
+
+## Breast MRI
+
+Used for:
+
+* High-risk individuals
+* Dense breast tissue
+* Additional evaluation
+
+---
+
+# Diagnosis
+
+## Medical History and Physical Examination
+
+Assessment of symptoms and risk factors.
+
+---
+
+## Imaging Tests
+
+### Mammogram
+
+Most common imaging test.
+
+### Ultrasound
+
+Useful for evaluating lumps.
+
+### MRI
+
+Provides detailed imaging.
+
+---
+
+## Biopsy
+
+### Definition
+
+Removal of tissue for laboratory analysis.
+
+### Types
+
+* Fine-needle aspiration
+* Core needle biopsy
+* Surgical biopsy
+
+Biopsy is the definitive diagnostic method.
+
+---
+
+# Breast Cancer Staging
+
+Staging describes the extent of disease.
+
+## Stage 0
+
+* Non-invasive cancer (DCIS)
+
+---
+
+## Stage I
+
+* Small tumor
+* No significant lymph node involvement
+
+---
+
+## Stage II
+
+* Larger tumor and/or limited lymph node spread
+
+---
+
+## Stage III
+
+* Extensive local spread
+* Multiple lymph nodes involved
+
+---
+
+## Stage IV
+
+* Metastatic disease
+* Spread to distant organs
+
+Common metastatic sites:
+
+* Bone
+* Liver
+* Lung
+* Brain
+
+---
+
+# TNM Staging System
+
+### T (Tumor)
+
+Size and extent of primary tumor.
+
+### N (Nodes)
+
+Lymph node involvement.
+
+### M (Metastasis)
+
+Presence of distant spread.
+
+---
+
+# Treatment Options
+
+Treatment depends on:
+
+* Cancer type
+* Stage
+* Receptor status
+* Patient health
+
+---
+
+## Surgery
+
+### Lumpectomy
+
+Removes tumor while preserving breast tissue.
+
+### Mastectomy
+
+Removes the entire breast.
+
+---
+
+## Radiation Therapy
+
+Uses high-energy radiation to destroy cancer cells.
+
+Often used after surgery.
+
+---
+
+## Chemotherapy
+
+Uses drugs to kill rapidly dividing cancer cells.
+
+May be given:
+
+* Before surgery (neoadjuvant)
+* After surgery (adjuvant)
+
+---
+
+## Hormone Therapy
+
+Used for hormone receptor-positive cancers.
+
+Common medications:
+
+* Tamoxifen
+* Anastrozole
+* Letrozole
+
+---
+
+## Targeted Therapy
+
+Used for HER2-positive cancers.
+
+Examples:
+
+* Trastuzumab
+* Pertuzumab
+
+---
+
+## Immunotherapy
+
+May be used in selected triple-negative breast cancers.
+
+---
+
+# Side Effects of Treatment
+
+## Surgery
+
+* Pain
+* Scarring
+* Limited arm movement
+
+---
+
+## Chemotherapy
+
+* Hair loss
+* Nausea
+* Fatigue
+* Increased infection risk
+
+---
+
+## Radiation
+
+* Skin irritation
+* Fatigue
+
+---
+
+## Hormone Therapy
+
+* Hot flashes
+* Joint pain
+* Mood changes
+
+---
+
+# Prevention
+
+Although not all cases can be prevented, risk can be reduced by:
+
+* Maintaining a healthy weight
+* Regular exercise
+* Limiting alcohol consumption
+* Avoiding smoking
+* Breastfeeding when possible
+* Participating in screening programs
+
+---
+
+# Prognosis and Survival
+
+Prognosis depends on:
+
+* Stage at diagnosis
+* Tumor biology
+* Response to treatment
+
+### Early-Stage Breast Cancer
+
+Often highly treatable with excellent survival rates.
+
+### Metastatic Breast Cancer
+
+Usually not curable but can often be managed for extended periods with modern therapies.
+
+---
+
+# Living with Breast Cancer
+
+Patients may benefit from:
+
+* Nutritional counseling
+* Physical activity programs
+* Psychological support
+* Support groups
+* Survivorship care plans
+
+---
+
+# Key Takeaways
+
+* Breast cancer is one of the most common cancers worldwide.
+* It usually begins in the ducts or lobules of the breast.
+* Risk factors include age, genetics, hormones, obesity, and lifestyle factors.
+* Common symptoms include breast lumps, nipple changes, and skin abnormalities.
+* Mammography is the primary screening tool.
+* Diagnosis is confirmed through biopsy.
+* Treatment may involve surgery, radiation, chemotherapy, hormone therapy, targeted therapy, and immunotherapy.
+* Early detection greatly improves outcomes.
+* Awareness, screening, and timely treatment are essential for reducing breast cancer mortality.
+
+This topic can serve as a complete knowledge-base document for the **Breast Cancer** section of your Cancer RAG chatbot.

@@ -1,0 +1,283 @@
+# 1. Introduction to Cancer
+
+## What is Cancer?
+
+Cancer is a group of diseases characterized by the uncontrolled growth and spread of abnormal cells in the body. Normally, cells grow, divide, and die in a regulated manner. Cancer occurs when this process breaks down, causing cells to multiply uncontrollably and potentially invade nearby tissues or spread to other parts of the body.
+
+Cancer can develop almost anywhere in the human body because every organ and tissue is made up of cells. If left untreated, cancer can interfere with normal body functions and may become life-threatening.
+
+---
+
+## How Normal Cells Become Cancer Cells
+
+The human body contains trillions of cells. Each cell follows instructions stored in its DNA.
+
+### Normal Cell Behavior
+
+* Cells grow when needed.
+* Cells divide to replace old or damaged cells.
+* Cells stop dividing when enough cells are present.
+* Damaged cells undergo programmed cell death (apoptosis).
+
+### Cancer Cell Behavior
+
+Cancer develops when mutations (changes) occur in genes that regulate cell growth.
+
+These mutations can:
+
+* Turn on genes that promote cell growth (oncogenes).
+* Turn off genes that suppress tumors (tumor suppressor genes).
+* Prevent damaged cells from dying.
+
+As a result:
+
+* Cells continue dividing uncontrollably.
+* Abnormal cells accumulate.
+* Tumors may form.
+* Cancer cells can invade surrounding tissues.
+
+---
+
+## What Causes Cancer?
+
+Cancer is caused by genetic mutations that accumulate over time.
+
+### Common Causes and Risk Factors
+
+#### Tobacco Use
+
+* Smoking is the leading preventable cause of cancer.
+* Linked to lung, oral, throat, bladder, and pancreatic cancers.
+
+#### Alcohol Consumption
+
+* Excessive alcohol increases the risk of several cancers.
+
+#### Radiation Exposure
+
+* Ultraviolet (UV) radiation from sunlight.
+* X-rays and other ionizing radiation.
+
+#### Infections
+
+Certain infections increase cancer risk:
+
+* Human Papillomavirus (HPV)
+* Hepatitis B Virus (HBV)
+* Hepatitis C Virus (HCV)
+* Epstein-Barr Virus (EBV)
+
+#### Environmental Factors
+
+* Air pollution
+* Asbestos
+* Industrial chemicals
+
+#### Genetic Factors
+
+* Some cancers run in families.
+* Inherited mutations can increase risk.
+
+#### Lifestyle Factors
+
+* Obesity
+* Physical inactivity
+* Unhealthy diet
+
+---
+
+## Benign vs Malignant Tumors
+
+### Benign Tumors
+
+Benign tumors are non-cancerous growths.
+
+Characteristics:
+
+* Grow slowly.
+* Do not spread to other parts of the body.
+* Usually remain localized.
+* Often removable by surgery.
+
+Examples:
+
+* Lipoma (fat tissue tumor)
+* Fibroma
+
+### Malignant Tumors
+
+Malignant tumors are cancerous.
+
+Characteristics:
+
+* Grow rapidly.
+* Invade nearby tissues.
+* Can spread to distant organs.
+* May recur after treatment.
+
+Examples:
+
+* Breast cancer
+* Lung cancer
+* Colon cancer
+
+---
+
+## What is Metastasis?
+
+Metastasis is the process by which cancer spreads from its original location to other parts of the body.
+
+### Steps in Metastasis
+
+1. Cancer develops in a primary site.
+2. Cancer cells break away.
+3. Cells enter blood vessels or lymphatic vessels.
+4. Cells travel through the body.
+5. Cells establish new tumors in distant organs.
+
+Common metastatic sites:
+
+* Liver
+* Lungs
+* Bones
+* Brain
+
+Metastatic cancer is often more difficult to treat than localized cancer.
+
+---
+
+## Hallmarks of Cancer
+
+Scientists have identified key characteristics shared by most cancers:
+
+### Sustained Proliferative Signaling
+
+Cancer cells continuously receive signals to grow.
+
+### Evading Growth Suppressors
+
+They ignore signals that normally stop cell division.
+
+### Resisting Cell Death
+
+Cancer cells avoid apoptosis.
+
+### Enabling Replicative Immortality
+
+They can divide indefinitely.
+
+### Inducing Angiogenesis
+
+They stimulate the formation of new blood vessels to supply nutrients.
+
+### Activating Invasion and Metastasis
+
+They spread to distant tissues.
+
+---
+
+## Common Signs and Symptoms of Cancer
+
+Symptoms vary depending on cancer type and location.
+
+### General Symptoms
+
+* Unexplained weight loss
+* Persistent fatigue
+* Fever
+* Loss of appetite
+
+### Local Symptoms
+
+* Lumps or swelling
+* Persistent pain
+* Changes in skin appearance
+* Non-healing wounds
+
+### Warning Signs
+
+* Persistent cough
+* Difficulty swallowing
+* Unusual bleeding
+* Changes in bowel habits
+* Blood in urine or stool
+
+---
+
+## Global Cancer Statistics
+
+Cancer is one of the leading causes of death worldwide.
+
+### Key Facts
+
+* Millions of new cancer cases are diagnosed every year.
+* Breast cancer is among the most commonly diagnosed cancers globally.
+* Lung cancer remains a leading cause of cancer-related deaths.
+* Early detection significantly improves survival rates.
+
+---
+
+## Cancer Burden in India
+
+Cancer is a growing public health concern in India.
+
+### Common Cancers in India
+
+#### Men
+
+* Oral cancer
+* Lung cancer
+* Stomach cancer
+* Colorectal cancer
+
+#### Women
+
+* Breast cancer
+* Cervical cancer
+* Ovarian cancer
+* Colorectal cancer
+
+### Major Risk Factors in India
+
+* Tobacco chewing
+* Smoking
+* Alcohol use
+* HPV infection
+* Lack of screening programs
+
+---
+
+## Cancer Prevention
+
+Not all cancers can be prevented, but many cases are linked to modifiable risk factors.
+
+### Prevention Strategies
+
+* Avoid tobacco products.
+* Limit alcohol consumption.
+* Maintain a healthy weight.
+* Exercise regularly.
+* Eat fruits and vegetables.
+* Protect skin from excessive sun exposure.
+* Get recommended vaccines (HPV, Hepatitis B).
+* Participate in cancer screening programs.
+
+---
+
+## Common Myths and Facts
+
+| Myth                              | Fact                                                                  |
+| --------------------------------- | --------------------------------------------------------------------- |
+| Cancer is always fatal.           | Many cancers are treatable and curable when detected early.           |
+| Cancer is contagious.             | Cancer does not spread from person to person.                         |
+| Only smokers get cancer.          | Non-smokers can also develop cancer.                                  |
+| Surgery causes cancer to spread.  | Surgery is a standard treatment and does not generally spread cancer. |
+| Cancer affects only older people. | Cancer can occur at any age.                                          |
+
+---
+
+## Conclusion
+
+Cancer is a complex disease caused by genetic changes that lead to uncontrolled cell growth. It can affect almost any part of the body and may spread through metastasis. Understanding cancer, recognizing risk factors, adopting preventive measures, and encouraging early detection are essential steps in reducing its impact. Advances in diagnosis, treatment, and research continue to improve outcomes and quality of life for cancer patients worldwide.
+
+This topic serves as the foundation for all other cancer-related topics in your RAG chatbot knowledge base.

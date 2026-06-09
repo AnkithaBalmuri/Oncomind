@@ -1,0 +1,633 @@
+# 5. Colorectal Cancer
+
+## Overview
+
+Colorectal cancer (CRC) is a type of cancer that begins in the colon or rectum, which are parts of the large intestine. It is one of the most common cancers worldwide and a leading cause of cancer-related deaths. Most colorectal cancers develop slowly over many years and often start as non-cancerous growths called **polyps**.
+
+Early detection through screening can identify precancerous polyps and significantly reduce the risk of developing colorectal cancer.
+
+---
+
+# What is Colorectal Cancer?
+
+Colorectal cancer occurs when abnormal cells in the colon or rectum grow uncontrollably and form a tumor.
+
+### Colon
+
+The colon is the longest part of the large intestine and absorbs water and nutrients from digested food.
+
+### Rectum
+
+The rectum is the final section of the large intestine that stores stool before it leaves the body.
+
+Cancer can develop in either area and may spread to nearby tissues, lymph nodes, or distant organs if not treated.
+
+---
+
+# Anatomy of the Large Intestine
+
+The large intestine consists of:
+
+### Cecum
+
+Beginning of the colon.
+
+### Ascending Colon
+
+Moves upward on the right side of the abdomen.
+
+### Transverse Colon
+
+Crosses the abdomen.
+
+### Descending Colon
+
+Moves downward on the left side.
+
+### Sigmoid Colon
+
+Connects the colon to the rectum.
+
+### Rectum
+
+Stores waste before elimination.
+
+### Anus
+
+Exit point of the digestive tract.
+
+---
+
+# Types of Colorectal Cancer
+
+## 1. Adenocarcinoma
+
+### Overview
+
+Accounts for approximately 95% of colorectal cancers.
+
+### Origin
+
+Develops from mucus-producing gland cells lining the colon and rectum.
+
+---
+
+## 2. Gastrointestinal Stromal Tumors (GIST)
+
+Rare tumors that develop from specialized cells in the digestive tract wall.
+
+---
+
+## 3. Lymphoma
+
+Cancer of immune cells that can occasionally occur in the colon.
+
+---
+
+## 4. Carcinoid (Neuroendocrine) Tumors
+
+Develop from hormone-producing cells in the intestine.
+
+---
+
+## 5. Sarcoma
+
+Rare cancers arising from connective tissues such as muscles and blood vessels.
+
+---
+
+# How Colorectal Cancer Develops
+
+Most colorectal cancers follow a progression known as the **adenoma-carcinoma sequence**.
+
+### Step 1: Normal Colon Tissue
+
+Healthy cells line the colon wall.
+
+### Step 2: Polyp Formation
+
+Small growths called polyps develop.
+
+### Step 3: Advanced Polyp
+
+Genetic mutations accumulate.
+
+### Step 4: Cancer Formation
+
+The polyp becomes cancerous.
+
+### Step 5: Invasion and Metastasis
+
+Cancer spreads into deeper tissues and distant organs.
+
+This process often takes 10–15 years.
+
+---
+
+# Types of Polyps
+
+## Adenomatous Polyps (Adenomas)
+
+Most likely to become cancerous.
+
+---
+
+## Sessile Serrated Polyps
+
+Can also progress to cancer.
+
+---
+
+## Hyperplastic Polyps
+
+Usually non-cancerous and low risk.
+
+---
+
+# Risk Factors
+
+## Age
+
+Risk increases significantly after age 45.
+
+---
+
+## Family History
+
+Higher risk if close relatives have colorectal cancer or polyps.
+
+---
+
+## Genetic Syndromes
+
+Examples:
+
+* Lynch Syndrome
+* Familial Adenomatous Polyposis (FAP)
+
+---
+
+## Inflammatory Bowel Disease
+
+Long-term inflammation increases risk.
+
+Examples:
+
+* Ulcerative Colitis
+* Crohn's Disease
+
+---
+
+## Diet
+
+Higher risk associated with:
+
+* Red meat consumption
+* Processed meats
+* Low-fiber diets
+
+---
+
+## Obesity
+
+Excess body weight increases risk.
+
+---
+
+## Physical Inactivity
+
+Sedentary lifestyle contributes to risk.
+
+---
+
+## Smoking
+
+Long-term tobacco use increases risk.
+
+---
+
+## Alcohol Consumption
+
+Heavy alcohol use is associated with higher risk.
+
+---
+
+# Signs and Symptoms
+
+Early-stage colorectal cancer may not cause symptoms.
+
+### Common Symptoms
+
+#### Change in Bowel Habits
+
+* Diarrhea
+* Constipation
+* Narrow stools
+
+---
+
+#### Blood in Stool
+
+May appear:
+
+* Bright red
+* Dark red
+* Black
+
+---
+
+#### Rectal Bleeding
+
+Persistent bleeding requires medical evaluation.
+
+---
+
+#### Abdominal Pain
+
+Cramping or discomfort.
+
+---
+
+#### Unexplained Weight Loss
+
+A common warning sign of many cancers.
+
+---
+
+#### Fatigue
+
+Often due to anemia caused by chronic bleeding.
+
+---
+
+#### Feeling That the Bowel Does Not Empty Completely
+
+Persistent sensation after bowel movements.
+
+---
+
+# Screening and Early Detection
+
+Screening is highly effective because it can detect precancerous polyps before cancer develops.
+
+---
+
+## Colonoscopy
+
+### Overview
+
+The gold standard screening method.
+
+### Advantages
+
+* Direct visualization of the colon.
+* Allows removal of polyps.
+* Can obtain biopsies.
+
+---
+
+## Stool-Based Tests
+
+### Fecal Immunochemical Test (FIT)
+
+Detects hidden blood in stool.
+
+---
+
+### Stool DNA Test
+
+Detects abnormal DNA from cancer cells.
+
+---
+
+## Flexible Sigmoidoscopy
+
+Examines the lower portion of the colon.
+
+---
+
+## CT Colonography
+
+Virtual colonoscopy using CT imaging.
+
+---
+
+# Diagnosis
+
+## Medical History and Physical Examination
+
+Assessment of symptoms and risk factors.
+
+---
+
+## Colonoscopy
+
+Most important diagnostic procedure.
+
+---
+
+## Biopsy
+
+Tissue samples are examined under a microscope.
+
+A biopsy is required to confirm cancer.
+
+---
+
+## Blood Tests
+
+May include:
+
+### Complete Blood Count (CBC)
+
+Detects anemia.
+
+### Carcinoembryonic Antigen (CEA)
+
+A tumor marker used for monitoring treatment.
+
+---
+
+## Imaging Tests
+
+### CT Scan
+
+Evaluates spread to nearby organs.
+
+---
+
+### MRI
+
+Particularly useful for rectal cancer staging.
+
+---
+
+### PET Scan
+
+Detects metastatic disease.
+
+---
+
+# Staging of Colorectal Cancer
+
+## Stage 0
+
+Cancer limited to the innermost lining.
+
+---
+
+## Stage I
+
+Cancer has grown into deeper layers but not beyond the colon wall.
+
+---
+
+## Stage II
+
+Cancer extends through the colon wall.
+
+---
+
+## Stage III
+
+Cancer has spread to nearby lymph nodes.
+
+---
+
+## Stage IV
+
+Cancer has spread to distant organs.
+
+Common metastatic sites include:
+
+* Liver
+* Lungs
+* Peritoneum
+
+---
+
+# TNM Staging System
+
+### T (Tumor)
+
+Extent of primary tumor invasion.
+
+### N (Nodes)
+
+Number of affected lymph nodes.
+
+### M (Metastasis)
+
+Presence of distant spread.
+
+---
+
+# Treatment Options
+
+Treatment depends on:
+
+* Tumor location
+* Stage
+* Patient health
+* Molecular characteristics
+
+---
+
+## Surgery
+
+Primary treatment for most localized cancers.
+
+### Polypectomy
+
+Removal of cancerous polyps.
+
+---
+
+### Colectomy
+
+Removal of part of the colon.
+
+---
+
+### Proctectomy
+
+Removal of part or all of the rectum.
+
+---
+
+## Chemotherapy
+
+Commonly used for:
+
+* Stage III disease
+* Stage IV disease
+* High-risk Stage II disease
+
+Common drugs include:
+
+* Fluorouracil
+* Capecitabine
+* Oxaliplatin
+
+---
+
+## Radiation Therapy
+
+Primarily used for rectal cancer.
+
+### Purposes
+
+* Shrink tumors before surgery
+* Reduce recurrence risk
+* Palliate symptoms
+
+---
+
+## Targeted Therapy
+
+Targets specific molecular pathways.
+
+Examples include:
+
+* Bevacizumab
+* Cetuximab
+
+---
+
+## Immunotherapy
+
+Used in selected patients with specific genetic features.
+
+Examples include:
+
+* Pembrolizumab
+* Nivolumab
+
+---
+
+# Side Effects of Treatment
+
+## Surgery
+
+* Infection
+* Bleeding
+* Temporary bowel changes
+
+---
+
+## Chemotherapy
+
+* Fatigue
+* Nausea
+* Diarrhea
+* Neuropathy
+
+---
+
+## Radiation Therapy
+
+* Skin irritation
+* Bowel irritation
+* Fatigue
+
+---
+
+# Prevention
+
+## Healthy Diet
+
+Increase:
+
+* Fruits
+* Vegetables
+* Whole grains
+
+Reduce:
+
+* Processed meats
+* Excess red meat
+
+---
+
+## Regular Physical Activity
+
+Helps lower risk.
+
+---
+
+## Weight Management
+
+Maintaining a healthy weight is protective.
+
+---
+
+## Avoid Tobacco
+
+Smoking increases colorectal cancer risk.
+
+---
+
+## Limit Alcohol
+
+Moderation is recommended.
+
+---
+
+## Routine Screening
+
+One of the most effective preventive measures.
+
+---
+
+# Prognosis
+
+Prognosis depends on:
+
+* Stage at diagnosis
+* Tumor biology
+* Treatment response
+
+### Early-Stage Disease
+
+Often curable with surgery.
+
+### Advanced Disease
+
+May require combined treatment approaches but can still be managed effectively.
+
+---
+
+# Living with Colorectal Cancer
+
+Supportive care may include:
+
+### Nutritional Counseling
+
+Managing diet after surgery or treatment.
+
+### Physical Rehabilitation
+
+Improving strength and recovery.
+
+### Psychological Support
+
+Managing anxiety and emotional stress.
+
+### Survivorship Programs
+
+Long-term monitoring and follow-up care.
+
+---
+
+# Key Takeaways
+
+* Colorectal cancer begins in the colon or rectum and is one of the most common cancers worldwide.
+* Most cases arise from precancerous polyps over many years.
+* Risk factors include age, genetics, obesity, smoking, alcohol use, and poor diet.
+* Symptoms include blood in stool, bowel habit changes, abdominal pain, and unexplained weight loss.
+* Colonoscopy is the most effective screening and diagnostic tool.
+* Treatment may involve surgery, chemotherapy, radiation therapy, targeted therapy, and immunotherapy.
+* Early detection greatly improves survival and can prevent cancer through removal of precancerous polyps.
+* Regular screening and healthy lifestyle habits are key strategies for prevention.
+
+This document can serve as the complete **Colorectal Cancer** knowledge-base article for your Cancer RAG chatbot.

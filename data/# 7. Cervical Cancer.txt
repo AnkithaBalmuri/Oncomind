@@ -1,0 +1,608 @@
+# 7. Cervical Cancer
+
+## Overview
+
+Cervical cancer is a type of cancer that develops in the **cervix**, the lower part of the uterus that connects the uterus to the vagina. It is one of the most preventable cancers because it can often be detected early through regular screening and prevented through vaccination against the **Human Papillomavirus (HPV)**.
+
+Cervical cancer remains a significant health concern worldwide, particularly in low- and middle-income countries where access to screening and vaccination may be limited.
+
+---
+
+# What is the Cervix?
+
+The cervix is a cylindrical structure located at the lower end of the uterus.
+
+### Functions of the Cervix
+
+* Connects the uterus to the vagina
+* Produces cervical mucus
+* Allows menstrual blood to exit the uterus
+* Helps sperm enter the uterus
+* Dilates during childbirth
+
+The cervix consists of two main cell types:
+
+### Squamous Cells
+
+Cover the outer part of the cervix.
+
+### Glandular Cells
+
+Line the cervical canal.
+
+Most cervical cancers begin in one of these cell types.
+
+---
+
+# What is Cervical Cancer?
+
+Cervical cancer occurs when abnormal cells in the cervix grow uncontrollably and form a tumor.
+
+### Development Process
+
+1. HPV infection occurs.
+2. Persistent infection causes cellular changes.
+3. Precancerous lesions develop.
+4. Genetic mutations accumulate.
+5. Invasive cervical cancer forms.
+
+This process often takes many years, making screening highly effective.
+
+---
+
+# Types of Cervical Cancer
+
+## 1. Squamous Cell Carcinoma
+
+### Overview
+
+Accounts for approximately 70–80% of cervical cancers.
+
+### Origin
+
+Develops from squamous cells covering the outer cervix.
+
+### Characteristics
+
+* Most common type
+* Usually linked to HPV infection
+
+---
+
+## 2. Adenocarcinoma
+
+### Overview
+
+Accounts for approximately 10–25% of cases.
+
+### Origin
+
+Develops from glandular cells lining the cervical canal.
+
+### Characteristics
+
+* Increasing in incidence
+* Sometimes harder to detect on screening
+
+---
+
+## 3. Adenosquamous Carcinoma
+
+Contains both squamous and glandular cancer cells.
+
+Rare but more aggressive.
+
+---
+
+# Human Papillomavirus (HPV)
+
+## What is HPV?
+
+HPV is a common sexually transmitted infection.
+
+More than 200 HPV types exist.
+
+---
+
+## High-Risk HPV Types
+
+The most important cancer-causing types are:
+
+* HPV-16
+* HPV-18
+
+Together they cause the majority of cervical cancer cases.
+
+---
+
+## How HPV Causes Cancer
+
+Persistent HPV infection can:
+
+* Damage cellular DNA
+* Disrupt normal cell growth
+* Cause precancerous changes
+* Lead to invasive cancer
+
+Most HPV infections clear naturally, but persistent infections pose a higher risk.
+
+---
+
+# Risk Factors
+
+## Persistent HPV Infection
+
+The most significant risk factor.
+
+---
+
+## Early Sexual Activity
+
+Increases likelihood of HPV exposure.
+
+---
+
+## Multiple Sexual Partners
+
+Raises risk of HPV infection.
+
+---
+
+## Smoking
+
+Tobacco use increases cervical cancer risk.
+
+---
+
+## Weakened Immune System
+
+Examples include:
+
+* HIV infection
+* Immunosuppressive medications
+
+---
+
+## Long-Term Oral Contraceptive Use
+
+May slightly increase risk.
+
+---
+
+## Lack of Screening
+
+Failure to undergo regular screening increases the likelihood of late diagnosis.
+
+---
+
+# Precancerous Cervical Changes
+
+Before cancer develops, abnormal cervical cells may appear.
+
+### Cervical Intraepithelial Neoplasia (CIN)
+
+#### CIN 1
+
+Mild abnormal changes.
+
+#### CIN 2
+
+Moderate abnormal changes.
+
+#### CIN 3
+
+Severe abnormal changes with high cancer risk.
+
+Early treatment of CIN can prevent cervical cancer.
+
+---
+
+# Signs and Symptoms
+
+Early cervical cancer often causes no symptoms.
+
+As cancer progresses, symptoms may develop.
+
+---
+
+## Abnormal Vaginal Bleeding
+
+Examples:
+
+* Bleeding between periods
+* Bleeding after sexual intercourse
+* Bleeding after menopause
+
+---
+
+## Unusual Vaginal Discharge
+
+May be:
+
+* Watery
+* Bloody
+* Foul-smelling
+
+---
+
+## Pelvic Pain
+
+Persistent discomfort in the pelvic region.
+
+---
+
+## Pain During Intercourse
+
+Also known as dyspareunia.
+
+---
+
+## Advanced Symptoms
+
+May include:
+
+* Back pain
+* Leg swelling
+* Difficulty urinating
+* Blood in urine
+
+---
+
+# Screening and Early Detection
+
+## Pap Smear (Pap Test)
+
+### Purpose
+
+Detects abnormal cervical cells before cancer develops.
+
+### Procedure
+
+Cells are collected from the cervix and examined under a microscope.
+
+### Benefits
+
+* Detects precancerous changes
+* Reduces cervical cancer mortality
+
+---
+
+## HPV Testing
+
+### Purpose
+
+Identifies high-risk HPV infections.
+
+### Advantages
+
+Can detect risk before cellular abnormalities appear.
+
+---
+
+## Co-Testing
+
+Combines:
+
+* Pap test
+* HPV test
+
+Provides greater screening accuracy.
+
+---
+
+# Diagnosis
+
+## Medical History and Physical Examination
+
+Evaluation of symptoms and risk factors.
+
+---
+
+## Pelvic Examination
+
+Visual and physical examination of reproductive organs.
+
+---
+
+## Colposcopy
+
+### What is Colposcopy?
+
+A procedure using a magnifying instrument to examine the cervix.
+
+### Purpose
+
+Identifies suspicious areas for biopsy.
+
+---
+
+## Cervical Biopsy
+
+### Importance
+
+The definitive method for diagnosing cervical cancer.
+
+### Types
+
+* Punch biopsy
+* Cone biopsy
+* Endocervical curettage
+
+---
+
+## Imaging Tests
+
+Used to determine the extent of disease.
+
+### CT Scan
+
+Evaluates spread to nearby structures.
+
+### MRI
+
+Provides detailed pelvic imaging.
+
+### PET Scan
+
+Detects metastatic disease.
+
+---
+
+# Staging of Cervical Cancer
+
+## Stage I
+
+Cancer confined to the cervix.
+
+---
+
+## Stage II
+
+Cancer extends beyond the cervix but not to the pelvic wall.
+
+---
+
+## Stage III
+
+Cancer reaches the pelvic wall or lower vagina.
+
+---
+
+## Stage IV
+
+Cancer spreads to nearby organs or distant sites.
+
+Common metastatic locations include:
+
+* Lungs
+* Liver
+* Bones
+
+---
+
+# TNM Staging System
+
+### T (Tumor)
+
+Size and local extent of cancer.
+
+### N (Nodes)
+
+Lymph node involvement.
+
+### M (Metastasis)
+
+Spread to distant organs.
+
+---
+
+# Treatment Options
+
+Treatment depends on:
+
+* Cancer stage
+* Tumor size
+* Patient age
+* Fertility considerations
+* Overall health
+
+---
+
+## Surgery
+
+### Conization
+
+Removal of a cone-shaped portion of cervical tissue.
+
+Used for early lesions.
+
+---
+
+### Hysterectomy
+
+Removal of the uterus and cervix.
+
+Types:
+
+* Simple hysterectomy
+* Radical hysterectomy
+
+---
+
+## Radiation Therapy
+
+Uses high-energy radiation to destroy cancer cells.
+
+### Types
+
+#### External Beam Radiation Therapy (EBRT)
+
+Radiation delivered from outside the body.
+
+#### Brachytherapy
+
+Radiation source placed inside the body near the tumor.
+
+---
+
+## Chemotherapy
+
+Often combined with radiation therapy.
+
+Common drugs include:
+
+* Cisplatin
+* Carboplatin
+* Paclitaxel
+
+---
+
+## Targeted Therapy
+
+Targets specific pathways involved in cancer growth.
+
+Example:
+
+* Bevacizumab
+
+---
+
+## Immunotherapy
+
+Used in selected advanced or recurrent cases.
+
+Examples:
+
+* Pembrolizumab
+* Cemiplimab
+
+---
+
+# HPV Vaccination
+
+## Importance
+
+One of the most effective methods of cervical cancer prevention.
+
+---
+
+## Available Vaccines
+
+Examples include:
+
+* Gardasil 9
+* Cervarix
+
+---
+
+## Benefits
+
+Protects against high-risk HPV types that cause most cervical cancers.
+
+---
+
+# Side Effects of Treatment
+
+## Surgery
+
+* Pain
+* Infection
+* Fertility changes
+
+---
+
+## Radiation Therapy
+
+* Fatigue
+* Skin irritation
+* Bladder irritation
+* Bowel problems
+
+---
+
+## Chemotherapy
+
+* Hair loss
+* Nausea
+* Fatigue
+* Increased infection risk
+
+---
+
+# Prevention
+
+## HPV Vaccination
+
+Most effective preventive strategy.
+
+---
+
+## Regular Screening
+
+Pap tests and HPV testing can identify abnormalities before cancer develops.
+
+---
+
+## Safe Sexual Practices
+
+Reduce HPV transmission risk.
+
+---
+
+## Avoid Smoking
+
+Smoking contributes to cervical cancer development.
+
+---
+
+# Prognosis
+
+The outlook depends largely on the stage at diagnosis.
+
+### Early-Stage Disease
+
+Often highly curable.
+
+### Advanced Disease
+
+May require multimodal treatment but can still be managed effectively.
+
+Early detection significantly improves survival rates.
+
+---
+
+# Living with Cervical Cancer
+
+Supportive care may include:
+
+### Nutritional Counseling
+
+Maintaining strength during treatment.
+
+### Psychological Support
+
+Addressing emotional challenges.
+
+### Fertility Counseling
+
+Important for younger patients.
+
+### Survivorship Care
+
+Long-term monitoring after treatment.
+
+---
+
+# Key Takeaways
+
+* Cervical cancer develops in the cervix and is strongly associated with persistent HPV infection.
+* The two main types are squamous cell carcinoma and adenocarcinoma.
+* HPV-16 and HPV-18 cause most cervical cancer cases.
+* Early stages often have no symptoms.
+* Pap tests and HPV testing are highly effective screening tools.
+* Diagnosis requires biopsy confirmation.
+* Treatment may include surgery, radiation therapy, chemotherapy, targeted therapy, and immunotherapy.
+* HPV vaccination is one of the most effective methods of prevention.
+* Early detection and preventive screening dramatically improve outcomes.
+
+This document can serve as the complete **Cervical Cancer** knowledge-base article for your Cancer RAG chatbot.

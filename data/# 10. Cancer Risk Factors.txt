@@ -1,0 +1,568 @@
+# 10. Cancer Risk Factors
+
+## Overview
+
+A **risk factor** is anything that increases the likelihood of developing cancer. Having one or more risk factors does not guarantee that a person will develop cancer, and some people develop cancer without any known risk factors.
+
+Understanding cancer risk factors is important because many cancers can be prevented by reducing exposure to modifiable risks and adopting healthier lifestyles.
+
+Cancer risk factors can be divided into:
+
+1. Non-Modifiable Risk Factors
+2. Modifiable Risk Factors
+3. Environmental and Occupational Risk Factors
+4. Infectious Causes of Cancer
+5. Genetic and Hereditary Factors
+
+---
+
+# What Causes Cancer?
+
+Cancer develops when mutations occur in the DNA of cells.
+
+These mutations may:
+
+* Activate cancer-promoting genes (oncogenes)
+* Disable tumor suppressor genes
+* Prevent damaged cells from dying
+
+Over time, the accumulation of genetic changes can lead to uncontrolled cell growth and cancer.
+
+---
+
+# 1. Non-Modifiable Risk Factors
+
+These are factors that cannot be changed.
+
+---
+
+## Age
+
+### Overview
+
+Cancer risk increases with age because genetic mutations accumulate over time.
+
+### Why Age Matters
+
+As people age:
+
+* Cells undergo more divisions.
+* DNA damage accumulates.
+* Repair mechanisms become less effective.
+
+### Examples
+
+Many cancers are more common after age 50, including:
+
+* Breast cancer
+* Prostate cancer
+* Colorectal cancer
+* Lung cancer
+
+---
+
+## Gender
+
+Certain cancers occur more frequently in one sex.
+
+### Examples
+
+Women:
+
+* Breast cancer
+* Cervical cancer
+* Ovarian cancer
+
+Men:
+
+* Prostate cancer
+* Testicular cancer
+
+---
+
+## Family History
+
+Having close relatives with cancer may increase risk.
+
+### High-Risk Relatives
+
+* Parents
+* Siblings
+* Children
+
+### Why It Matters
+
+Family members may share:
+
+* Genetic mutations
+* Environmental exposures
+* Lifestyle habits
+
+---
+
+## Genetic Mutations
+
+Some inherited gene mutations significantly increase cancer risk.
+
+### Examples
+
+#### BRCA1 and BRCA2
+
+Associated with:
+
+* Breast cancer
+* Ovarian cancer
+* Prostate cancer
+
+---
+
+#### TP53
+
+Associated with multiple cancer types.
+
+---
+
+#### APC
+
+Associated with familial colorectal cancer syndromes.
+
+---
+
+# 2. Lifestyle-Related Risk Factors
+
+Many cancer risk factors are linked to lifestyle and are potentially preventable.
+
+---
+
+## Tobacco Use
+
+### Overview
+
+Tobacco is the leading preventable cause of cancer worldwide.
+
+### Harmful Products
+
+* Cigarettes
+* Cigars
+* Pipes
+* Smokeless tobacco
+
+### Cancer Types Associated with Tobacco
+
+* Lung cancer
+* Oral cancer
+* Throat cancer
+* Esophageal cancer
+* Bladder cancer
+* Pancreatic cancer
+* Kidney cancer
+
+### Mechanism
+
+Tobacco smoke contains thousands of chemicals, including many carcinogens that damage DNA.
+
+---
+
+## Secondhand Smoke
+
+Non-smokers exposed to tobacco smoke also have increased cancer risk.
+
+Especially linked to:
+
+* Lung cancer
+* Respiratory diseases
+
+---
+
+## Alcohol Consumption
+
+### Overview
+
+Alcohol increases the risk of several cancers.
+
+### Cancer Types Associated
+
+* Liver cancer
+* Breast cancer
+* Colorectal cancer
+* Esophageal cancer
+* Oral cancer
+
+### Mechanism
+
+Alcohol can:
+
+* Damage DNA
+* Increase inflammation
+* Produce carcinogenic byproducts
+
+---
+
+## Poor Diet
+
+### High-Risk Dietary Patterns
+
+* Excess processed meat
+* Excess red meat
+* High-fat diets
+* Low fruit and vegetable intake
+
+### Effects
+
+May contribute to:
+
+* Colorectal cancer
+* Stomach cancer
+* Pancreatic cancer
+
+---
+
+## Obesity
+
+### Overview
+
+Obesity is linked to increased risk of multiple cancers.
+
+### Associated Cancers
+
+* Breast cancer
+* Endometrial cancer
+* Colorectal cancer
+* Kidney cancer
+* Liver cancer
+
+### Mechanism
+
+Obesity can cause:
+
+* Chronic inflammation
+* Hormonal imbalances
+* Insulin resistance
+
+---
+
+## Physical Inactivity
+
+Lack of exercise increases cancer risk.
+
+### Benefits of Physical Activity
+
+* Weight control
+* Improved immune function
+* Reduced inflammation
+
+---
+
+# 3. Environmental Risk Factors
+
+---
+
+## Ultraviolet (UV) Radiation
+
+### Sources
+
+* Sunlight
+* Tanning beds
+
+### Associated Cancer
+
+* Skin cancer
+* Melanoma
+
+### Prevention
+
+* Sunscreen
+* Protective clothing
+* Limiting sun exposure
+
+---
+
+## Air Pollution
+
+Long-term exposure increases risk for:
+
+* Lung cancer
+* Respiratory diseases
+
+---
+
+## Radon Gas
+
+### Overview
+
+Naturally occurring radioactive gas.
+
+### Risk
+
+Second leading cause of lung cancer after smoking.
+
+---
+
+## Ionizing Radiation
+
+Examples:
+
+* X-rays
+* Gamma rays
+* Nuclear radiation
+
+High exposure increases cancer risk.
+
+---
+
+# 4. Occupational Risk Factors
+
+Certain occupations expose workers to carcinogens.
+
+---
+
+## Asbestos
+
+Associated with:
+
+* Lung cancer
+* Mesothelioma
+
+---
+
+## Benzene
+
+Associated with:
+
+* Leukemia
+
+---
+
+## Arsenic
+
+Associated with:
+
+* Skin cancer
+* Lung cancer
+
+---
+
+## Diesel Exhaust
+
+Associated with:
+
+* Lung cancer
+
+---
+
+## Industrial Chemicals
+
+Some manufacturing chemicals increase cancer risk.
+
+---
+
+# 5. Infectious Causes of Cancer
+
+Certain infections increase cancer risk.
+
+---
+
+## Human Papillomavirus (HPV)
+
+### Associated Cancers
+
+* Cervical cancer
+* Anal cancer
+* Penile cancer
+* Oropharyngeal cancer
+
+### Prevention
+
+HPV vaccination.
+
+---
+
+## Hepatitis B Virus (HBV)
+
+### Associated Cancer
+
+* Liver cancer
+
+### Prevention
+
+HBV vaccination.
+
+---
+
+## Hepatitis C Virus (HCV)
+
+### Associated Cancer
+
+* Liver cancer
+
+---
+
+## Epstein-Barr Virus (EBV)
+
+Associated with:
+
+* Certain lymphomas
+* Nasopharyngeal cancer
+
+---
+
+## Helicobacter pylori
+
+A bacterial infection linked to:
+
+* Stomach cancer
+
+---
+
+# 6. Hormonal Factors
+
+Hormones influence the growth of certain cancers.
+
+---
+
+## Estrogen Exposure
+
+Long-term exposure may increase risk of:
+
+* Breast cancer
+* Endometrial cancer
+
+---
+
+## Hormone Replacement Therapy
+
+Extended use may slightly increase certain cancer risks.
+
+---
+
+# 7. Immune System Factors
+
+A weakened immune system increases cancer susceptibility.
+
+Examples include:
+
+* Organ transplant recipients
+* HIV infection
+* Long-term immunosuppressive therapy
+
+Common cancers:
+
+* Lymphoma
+* Kaposi Sarcoma
+
+---
+
+# 8. Chronic Inflammation
+
+Persistent inflammation can promote cancer development.
+
+Examples:
+
+* Chronic hepatitis → Liver cancer
+* Chronic gastritis → Stomach cancer
+* Inflammatory bowel disease → Colorectal cancer
+
+Related diseases include:
+
+* Ulcerative Colitis
+* Crohn's Disease
+
+---
+
+# Cancer Risk Factors by Cancer Type
+
+| Cancer Type       | Major Risk Factors            |
+| ----------------- | ----------------------------- |
+| Lung Cancer       | Smoking, radon, air pollution |
+| Breast Cancer     | Age, BRCA mutations, obesity  |
+| Cervical Cancer   | HPV infection                 |
+| Colorectal Cancer | Obesity, diet, genetics       |
+| Liver Cancer      | HBV, HCV, alcohol             |
+| Skin Cancer       | UV exposure                   |
+| Prostate Cancer   | Age, genetics                 |
+| Leukemia          | Radiation, benzene            |
+
+---
+
+# Reducing Cancer Risk
+
+Many cancers can be prevented by reducing exposure to known risk factors.
+
+### Recommended Strategies
+
+#### Avoid Tobacco
+
+The most effective cancer prevention measure.
+
+---
+
+#### Limit Alcohol
+
+Reduce consumption whenever possible.
+
+---
+
+#### Maintain Healthy Weight
+
+Helps lower risk for multiple cancers.
+
+---
+
+#### Exercise Regularly
+
+Aim for consistent physical activity.
+
+---
+
+#### Eat a Balanced Diet
+
+Increase:
+
+* Fruits
+* Vegetables
+* Whole grains
+
+Limit:
+
+* Processed foods
+* Excess red meat
+
+---
+
+#### Protect Against UV Radiation
+
+Use sunscreen and protective clothing.
+
+---
+
+#### Get Vaccinated
+
+Important vaccines include:
+
+* Gardasil 9
+* Cervarix
+* Engerix-B
+
+---
+
+#### Participate in Screening Programs
+
+Examples:
+
+* Mammography
+* Colonoscopy
+* Pap testing
+
+---
+
+# Key Takeaways
+
+* Cancer develops due to genetic mutations influenced by multiple risk factors.
+* Some risk factors are non-modifiable, such as age and genetics.
+* Many risk factors are preventable, including smoking, alcohol use, obesity, poor diet, and physical inactivity.
+* Environmental exposures such as UV radiation, radon, and occupational chemicals contribute to cancer risk.
+* Certain infections, including HPV and hepatitis viruses, are important causes of cancer.
+* Healthy lifestyle choices, vaccination, and regular screening can significantly reduce cancer risk.
+* Understanding risk factors helps individuals make informed decisions to protect their health.
+
+This document can serve as the complete **Cancer Risk Factors** knowledge-base article for your Cancer RAG chatbot.

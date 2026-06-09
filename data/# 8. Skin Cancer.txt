@@ -1,0 +1,669 @@
+# 8. Skin Cancer
+
+## Overview
+
+Skin cancer is the uncontrolled growth of abnormal skin cells caused primarily by damage to the DNA of skin cells. It is the most common type of cancer worldwide. Most skin cancers develop due to excessive exposure to ultraviolet (UV) radiation from the sun or artificial tanning devices.
+
+Although many skin cancers are highly treatable when detected early, some forms, especially melanoma, can spread rapidly and become life-threatening.
+
+---
+
+# What is Skin Cancer?
+
+Skin cancer occurs when mutations in skin cells cause them to grow and divide uncontrollably.
+
+Normally:
+
+* Skin cells grow in an organized manner.
+* Old cells die and are replaced by new cells.
+
+In skin cancer:
+
+* DNA damage accumulates.
+* Cells lose growth control.
+* Abnormal cells form tumors.
+
+---
+
+# Anatomy of the Skin
+
+The skin is the largest organ of the body and consists of three main layers.
+
+## Epidermis
+
+Outer protective layer.
+
+Contains:
+
+* Squamous cells
+* Basal cells
+* Melanocytes
+
+Most skin cancers originate here.
+
+---
+
+## Dermis
+
+Middle layer containing:
+
+* Blood vessels
+* Hair follicles
+* Sweat glands
+* Nerves
+
+---
+
+## Subcutaneous Layer
+
+Deepest layer composed mainly of fat and connective tissue.
+
+---
+
+# Types of Skin Cancer
+
+The three major forms are:
+
+1. Basal Cell Carcinoma (BCC)
+2. Squamous Cell Carcinoma (SCC)
+3. Melanoma
+
+---
+
+# 1. Basal Cell Carcinoma (BCC)
+
+## Overview
+
+Basal cell carcinoma is the most common type of skin cancer.
+
+### Origin
+
+Develops from basal cells in the epidermis.
+
+### Characteristics
+
+* Slow-growing
+* Rarely spreads to distant organs
+* Can cause local tissue damage if untreated
+
+---
+
+## Common Locations
+
+* Face
+* Nose
+* Ears
+* Neck
+* Scalp
+
+---
+
+## Symptoms
+
+* Pearly or waxy bump
+* Flat flesh-colored lesion
+* Non-healing sore
+* Recurrent bleeding
+
+---
+
+# 2. Squamous Cell Carcinoma (SCC)
+
+## Overview
+
+The second most common skin cancer.
+
+### Origin
+
+Develops from squamous cells in the epidermis.
+
+### Characteristics
+
+* More aggressive than BCC
+* Can spread to lymph nodes if untreated
+
+---
+
+## Common Locations
+
+* Face
+* Lips
+* Ears
+* Hands
+* Arms
+
+---
+
+## Symptoms
+
+* Red scaly patches
+* Open sores
+* Raised growths
+* Wart-like lesions
+
+---
+
+# 3. Melanoma
+
+## Overview
+
+Melanoma is the most dangerous form of skin cancer.
+
+### Origin
+
+Develops from melanocytes, the cells responsible for producing melanin (skin pigment).
+
+### Characteristics
+
+* Highly aggressive
+* High metastatic potential
+* Can spread rapidly to other organs
+
+---
+
+## Common Locations
+
+### Men
+
+* Chest
+* Back
+
+### Women
+
+* Legs
+
+Melanoma can also occur in:
+
+* Eyes
+* Mouth
+* Nails
+* Genital areas
+
+---
+
+# The ABCDE Rule for Melanoma
+
+## A – Asymmetry
+
+One half differs from the other.
+
+---
+
+## B – Border
+
+Irregular, uneven, or poorly defined edges.
+
+---
+
+## C – Color
+
+Multiple colors or uneven pigmentation.
+
+---
+
+## D – Diameter
+
+Usually greater than 6 mm.
+
+---
+
+## E – Evolving
+
+Changes in size, shape, color, or symptoms.
+
+---
+
+# Other Rare Types of Skin Cancer
+
+## Merkel Cell Carcinoma
+
+Rare but aggressive cancer arising from neuroendocrine skin cells.
+
+---
+
+## Cutaneous Lymphoma
+
+Cancer involving immune cells in the skin.
+
+---
+
+## Kaposi Sarcoma
+
+Associated with infection by Human Herpesvirus 8 (HHV-8).
+
+Often occurs in immunocompromised individuals.
+
+---
+
+# Causes of Skin Cancer
+
+The primary cause is DNA damage from ultraviolet radiation.
+
+---
+
+## Ultraviolet (UV) Radiation
+
+### UV-A
+
+Penetrates deeply into the skin and contributes to aging and cancer.
+
+### UV-B
+
+Damages surface skin cells and causes sunburn.
+
+---
+
+## Tanning Beds
+
+Artificial UV exposure significantly increases risk.
+
+---
+
+## Genetic Mutations
+
+DNA mutations accumulate over time and may trigger cancer development.
+
+---
+
+# Risk Factors
+
+## Excessive Sun Exposure
+
+The most important risk factor.
+
+---
+
+## Fair Skin
+
+Individuals with lighter skin have less protective melanin.
+
+---
+
+## History of Sunburns
+
+Especially severe childhood sunburns.
+
+---
+
+## Family History
+
+Increases risk, particularly for melanoma.
+
+---
+
+## Personal History of Skin Cancer
+
+Past skin cancer increases future risk.
+
+---
+
+## Multiple Moles
+
+Higher numbers of moles increase melanoma risk.
+
+---
+
+## Weakened Immune System
+
+Examples:
+
+* Organ transplant recipients
+* HIV infection
+
+---
+
+# Signs and Symptoms
+
+## Basal Cell Carcinoma
+
+* Shiny bump
+* Pink growth
+* Non-healing ulcer
+
+---
+
+## Squamous Cell Carcinoma
+
+* Thickened skin patch
+* Scaly lesion
+* Persistent sore
+
+---
+
+## Melanoma
+
+* Changing mole
+* New pigmented lesion
+* Itching
+* Bleeding
+* Color changes
+
+---
+
+# Screening and Early Detection
+
+## Skin Self-Examination
+
+Individuals should regularly inspect:
+
+* Face
+* Arms
+* Legs
+* Back
+* Scalp
+* Nails
+
+---
+
+## Dermatologic Examination
+
+A healthcare provider evaluates suspicious lesions.
+
+---
+
+## Dermoscopy
+
+A specialized tool used to examine skin lesions more closely.
+
+---
+
+# Diagnosis
+
+## Physical Examination
+
+Assessment of suspicious skin changes.
+
+---
+
+## Dermoscopy
+
+Provides magnified visualization.
+
+---
+
+## Skin Biopsy
+
+### Importance
+
+The definitive method for diagnosing skin cancer.
+
+### Types
+
+* Shave biopsy
+* Punch biopsy
+* Excisional biopsy
+
+---
+
+## Imaging Tests
+
+Used if cancer has spread.
+
+Examples:
+
+* CT scan
+* MRI
+* PET scan
+
+---
+
+# Staging of Skin Cancer
+
+## Stage 0
+
+Cancer confined to the outer skin layer.
+
+---
+
+## Stage I
+
+Small localized cancer.
+
+---
+
+## Stage II
+
+Larger tumor without spread.
+
+---
+
+## Stage III
+
+Spread to nearby lymph nodes.
+
+---
+
+## Stage IV
+
+Spread to distant organs.
+
+Common metastatic sites:
+
+* Lungs
+* Liver
+* Brain
+* Bones
+
+---
+
+# Treatment Options
+
+Treatment depends on:
+
+* Cancer type
+* Size
+* Location
+* Stage
+
+---
+
+# Surgery
+
+## Excisional Surgery
+
+Removal of the cancer and surrounding tissue.
+
+---
+
+## Mohs Surgery
+
+Layer-by-layer removal with immediate microscopic examination.
+
+### Advantages
+
+* High cure rate
+* Preserves healthy tissue
+
+Commonly used for facial skin cancers.
+
+---
+
+# Cryotherapy
+
+Uses liquid nitrogen to freeze and destroy abnormal tissue.
+
+Useful for very early lesions.
+
+---
+
+# Curettage and Electrodessication
+
+Scraping and burning cancerous tissue.
+
+Commonly used for small skin cancers.
+
+---
+
+# Radiation Therapy
+
+Used when surgery is not possible.
+
+---
+
+# Chemotherapy
+
+Primarily used for advanced disease.
+
+Examples include:
+
+* Dacarbazine
+* Temozolomide
+
+---
+
+# Immunotherapy
+
+Revolutionized melanoma treatment.
+
+Examples:
+
+* Pembrolizumab
+* Nivolumab
+* Ipilimumab
+
+---
+
+# Targeted Therapy
+
+Used for tumors with specific mutations.
+
+Examples:
+
+* Vemurafenib
+* Dabrafenib
+* Trametinib
+
+---
+
+# Side Effects of Treatment
+
+## Surgery
+
+* Scarring
+* Pain
+* Infection
+
+---
+
+## Radiation
+
+* Skin irritation
+* Fatigue
+
+---
+
+## Immunotherapy
+
+* Skin rash
+* Fatigue
+* Immune-related inflammation
+
+---
+
+## Targeted Therapy
+
+* Fever
+* Joint pain
+* Skin reactions
+
+---
+
+# Prevention
+
+## Sun Protection
+
+Use sunscreen with SPF 30 or higher.
+
+---
+
+## Protective Clothing
+
+Wear:
+
+* Long sleeves
+* Hats
+* Sunglasses
+
+---
+
+## Avoid Peak Sun Hours
+
+Typically between 10 AM and 4 PM.
+
+---
+
+## Avoid Tanning Beds
+
+Strongly recommended.
+
+---
+
+## Regular Skin Checks
+
+Early detection greatly improves outcomes.
+
+---
+
+# Prognosis
+
+## Basal Cell Carcinoma
+
+Excellent prognosis with treatment.
+
+---
+
+## Squamous Cell Carcinoma
+
+Generally favorable when detected early.
+
+---
+
+## Melanoma
+
+Prognosis depends heavily on stage.
+
+### Early Melanoma
+
+Often curable.
+
+### Metastatic Melanoma
+
+More challenging but outcomes have improved significantly with modern immunotherapy.
+
+---
+
+# Living with Skin Cancer
+
+Supportive care may include:
+
+### Dermatologic Follow-Up
+
+Regular skin examinations.
+
+---
+
+### Psychological Support
+
+Managing concerns about recurrence and appearance.
+
+---
+
+### Lifestyle Changes
+
+Improved sun protection habits.
+
+---
+
+# Key Takeaways
+
+* Skin cancer is the most common cancer worldwide.
+* The three major types are Basal Cell Carcinoma (BCC), Squamous Cell Carcinoma (SCC), and Melanoma.
+* Excessive UV exposure is the primary cause.
+* Melanoma is the most dangerous form because of its ability to spread.
+* The ABCDE rule helps identify suspicious moles.
+* Diagnosis requires a skin biopsy.
+* Treatments include surgery, radiation therapy, immunotherapy, targeted therapy, and chemotherapy.
+* Regular skin examinations and sun protection are the most effective preventive measures.
+* Early detection dramatically improves survival rates.
+
+This document can serve as the complete **Skin Cancer** knowledge-base article for your Cancer RAG chatbot.

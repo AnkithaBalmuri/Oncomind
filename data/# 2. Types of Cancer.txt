@@ -1,0 +1,475 @@
+# 2. Types of Cancer
+
+## Overview
+
+Cancer is not a single disease but a collection of more than 100 diseases that can affect different parts of the body. Cancers are classified based on the type of cell where they originate and the tissues they affect.
+
+The main types of cancer are:
+
+1. Carcinoma
+2. Sarcoma
+3. Leukemia
+4. Lymphoma
+5. Multiple Myeloma
+6. Melanoma
+7. Brain and Spinal Cord Tumors
+
+Understanding these categories helps doctors determine diagnosis, treatment options, and prognosis.
+
+---
+
+# 1. Carcinoma
+
+## Definition
+
+Carcinoma is the most common type of cancer. It begins in epithelial cells, which line the inside and outside surfaces of the body.
+
+Epithelial cells are found in:
+
+* Skin
+* Lungs
+* Breast
+* Colon
+* Prostate
+* Stomach
+* Liver
+
+Approximately 80–90% of all cancers are carcinomas.
+
+---
+
+## Types of Carcinoma
+
+### Adenocarcinoma
+
+Develops in glandular cells that produce fluids or mucus.
+
+Examples:
+
+* Breast cancer
+* Colon cancer
+* Prostate cancer
+* Lung adenocarcinoma
+
+---
+
+### Squamous Cell Carcinoma
+
+Develops in flat squamous cells.
+
+Examples:
+
+* Skin cancer
+* Cervical cancer
+* Esophageal cancer
+* Head and neck cancers
+
+---
+
+### Basal Cell Carcinoma
+
+Originates in basal cells of the skin.
+
+Characteristics:
+
+* Most common skin cancer
+* Slow growing
+* Rarely spreads
+
+---
+
+### Transitional Cell Carcinoma
+
+Occurs in the urinary system.
+
+Examples:
+
+* Bladder cancer
+* Kidney pelvis cancer
+
+---
+
+## Common Symptoms
+
+Symptoms depend on the affected organ but may include:
+
+* Lumps
+* Pain
+* Bleeding
+* Weight loss
+* Persistent cough
+
+---
+
+# 2. Sarcoma
+
+## Definition
+
+Sarcomas develop in connective and supporting tissues of the body.
+
+Affected tissues include:
+
+* Bone
+* Muscle
+* Fat
+* Cartilage
+* Tendons
+* Blood vessels
+
+Sarcomas are relatively rare.
+
+---
+
+## Types of Sarcoma
+
+### Osteosarcoma
+
+Cancer of bone tissue.
+
+Commonly affects:
+
+* Teenagers
+* Young adults
+
+Usually found in:
+
+* Legs
+* Arms
+
+---
+
+### Chondrosarcoma
+
+Develops in cartilage.
+
+Most common locations:
+
+* Pelvis
+* Hip
+* Shoulder
+
+---
+
+### Liposarcoma
+
+Develops in fatty tissue.
+
+Usually found in:
+
+* Abdomen
+* Limbs
+
+---
+
+### Leiomyosarcoma
+
+Develops in smooth muscle tissue.
+
+May occur in:
+
+* Uterus
+* Gastrointestinal tract
+
+---
+
+## Symptoms
+
+* Bone pain
+* Swelling
+* Soft tissue lumps
+* Limited movement
+
+---
+
+# 3. Leukemia
+
+## Definition
+
+Leukemia is a cancer of blood-forming tissues, including bone marrow.
+
+Unlike solid tumors, leukemia produces abnormal white blood cells that circulate throughout the body.
+
+---
+
+## How Leukemia Develops
+
+Bone marrow normally produces:
+
+* Red blood cells
+* White blood cells
+* Platelets
+
+In leukemia:
+
+* Abnormal white blood cells grow uncontrollably.
+* Normal blood cell production decreases.
+* Immune function weakens.
+
+---
+
+## Types of Leukemia
+
+### Acute Lymphoblastic Leukemia (ALL)
+
+* Fast-growing
+* Common in children
+
+---
+
+### Acute Myeloid Leukemia (AML)
+
+* Fast-growing
+* Common in adults
+
+---
+
+### Chronic Lymphocytic Leukemia (CLL)
+
+* Slow-growing
+* Common in older adults
+
+---
+
+### Chronic Myeloid Leukemia (CML)
+
+Associated with:
+
+* Philadelphia chromosome mutation
+
+---
+
+## Symptoms
+
+* Fatigue
+* Frequent infections
+* Easy bruising
+* Bleeding
+* Fever
+* Bone pain
+
+---
+
+# 4. Lymphoma
+
+## Definition
+
+Lymphoma is cancer of the lymphatic system, an important part of the immune system.
+
+Affected structures:
+
+* Lymph nodes
+* Spleen
+* Bone marrow
+* Thymus gland
+
+---
+
+## Types of Lymphoma
+
+### Hodgkin Lymphoma
+
+Characterized by:
+
+* Reed-Sternberg cells
+* Often affects young adults
+
+Usually starts in:
+
+* Neck lymph nodes
+
+---
+
+### Non-Hodgkin Lymphoma (NHL)
+
+A diverse group of lymphatic cancers.
+
+Can affect:
+
+* Children
+* Adults
+
+More common than Hodgkin lymphoma.
+
+---
+
+## Symptoms
+
+* Swollen lymph nodes
+* Fever
+* Night sweats
+* Weight loss
+* Fatigue
+
+---
+
+# 5. Multiple Myeloma
+
+## Definition
+
+Multiple myeloma is a cancer of plasma cells.
+
+Plasma cells are immune cells responsible for producing antibodies.
+
+---
+
+## How It Develops
+
+Cancerous plasma cells:
+
+* Accumulate in bone marrow
+* Crowd out normal blood cells
+* Produce abnormal proteins
+
+---
+
+## Commonly Affected Bones
+
+* Spine
+* Skull
+* Pelvis
+* Ribs
+
+---
+
+## Symptoms
+
+* Bone pain
+* Frequent infections
+* Fatigue
+* Kidney problems
+* Anemia
+
+---
+
+# 6. Melanoma
+
+## Definition
+
+Melanoma develops from melanocytes, the cells that produce skin pigment (melanin).
+
+Although less common than other skin cancers, it is the most dangerous.
+
+---
+
+## Risk Factors
+
+* Excessive UV exposure
+* Fair skin
+* Family history
+* Multiple moles
+
+---
+
+## Warning Signs (ABCDE Rule)
+
+### A – Asymmetry
+
+One half differs from the other.
+
+### B – Border
+
+Irregular edges.
+
+### C – Color
+
+Uneven coloration.
+
+### D – Diameter
+
+Greater than 6 mm.
+
+### E – Evolving
+
+Changes over time.
+
+---
+
+## Symptoms
+
+* New mole
+* Changing mole
+* Itching
+* Bleeding lesions
+
+---
+
+# 7. Brain and Spinal Cord Tumors
+
+## Definition
+
+These cancers originate in the central nervous system (CNS).
+
+They may be:
+
+* Benign
+* Malignant
+
+---
+
+## Types
+
+### Glioma
+
+Develops from glial cells.
+
+Examples:
+
+* Astrocytoma
+* Glioblastoma
+
+---
+
+### Meningioma
+
+Develops in the meninges surrounding the brain.
+
+Often benign.
+
+---
+
+### Medulloblastoma
+
+Common pediatric brain tumor.
+
+Usually develops in the cerebellum.
+
+---
+
+## Symptoms
+
+* Headaches
+* Seizures
+* Vision problems
+* Memory issues
+* Weakness
+* Balance problems
+
+---
+
+# Comparison of Major Cancer Types
+
+| Cancer Type      | Origin                | Examples                  |
+| ---------------- | --------------------- | ------------------------- |
+| Carcinoma        | Epithelial cells      | Breast, Lung, Colon       |
+| Sarcoma          | Connective tissues    | Osteosarcoma, Liposarcoma |
+| Leukemia         | Blood-forming tissues | ALL, AML, CLL, CML        |
+| Lymphoma         | Lymphatic system      | Hodgkin, Non-Hodgkin      |
+| Multiple Myeloma | Plasma cells          | Bone marrow cancer        |
+| Melanoma         | Melanocytes           | Skin melanoma             |
+| Brain Tumors     | CNS tissues           | Glioblastoma, Meningioma  |
+
+---
+
+# Key Takeaways
+
+* Cancer is classified based on the tissue or cell where it begins.
+* Carcinomas are the most common cancers.
+* Sarcomas affect bones and connective tissues.
+* Leukemias affect blood and bone marrow.
+* Lymphomas affect the immune system.
+* Multiple myeloma develops in plasma cells.
+* Melanoma is a serious form of skin cancer.
+* Brain and spinal cord tumors affect the central nervous system.
+* Early diagnosis and proper classification are essential for effective treatment.
+
+This topic provides the foundational understanding of cancer classification and helps users of your RAG chatbot identify the major categories of cancer before exploring specific cancer types in detail.

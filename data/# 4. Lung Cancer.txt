@@ -1,0 +1,602 @@
+# 4. Lung Cancer
+
+## Overview
+
+Lung cancer is a disease in which abnormal cells grow uncontrollably in the lungs. It is one of the most commonly diagnosed cancers worldwide and remains one of the leading causes of cancer-related deaths. The disease often develops slowly over many years and may not cause symptoms in its early stages.
+
+The lungs are responsible for exchanging oxygen and carbon dioxide, making them essential organs for survival. When cancer develops in the lungs, it can interfere with breathing and spread to other parts of the body.
+
+---
+
+# What is Lung Cancer?
+
+Lung cancer occurs when genetic mutations cause lung cells to grow and divide uncontrollably. Instead of dying naturally, abnormal cells continue multiplying and form tumors.
+
+Over time, these tumors can:
+
+* Block airways
+* Damage lung tissue
+* Reduce oxygen exchange
+* Spread to other organs
+
+The spread of cancer from the lungs to distant organs is called **metastasis**.
+
+---
+
+# Anatomy of the Lungs
+
+The respiratory system includes:
+
+### Trachea (Windpipe)
+
+Carries air into the lungs.
+
+### Bronchi
+
+Large airways branching from the trachea.
+
+### Bronchioles
+
+Smaller airway branches.
+
+### Alveoli
+
+Tiny air sacs where oxygen enters the blood.
+
+### Pleura
+
+Protective membrane surrounding the lungs.
+
+Lung cancer usually begins in the cells lining the airways.
+
+---
+
+# Types of Lung Cancer
+
+Lung cancer is broadly classified into two main categories.
+
+## 1. Non-Small Cell Lung Cancer (NSCLC)
+
+### Overview
+
+NSCLC accounts for approximately 85% of lung cancer cases.
+
+### Characteristics
+
+* Grows relatively slowly.
+* More treatment options available.
+* Better prognosis when detected early.
+
+### Subtypes
+
+#### Adenocarcinoma
+
+Most common lung cancer type.
+
+Characteristics:
+
+* Begins in mucus-producing cells.
+* Common in both smokers and non-smokers.
+* Usually develops in outer lung regions.
+
+---
+
+#### Squamous Cell Carcinoma
+
+Characteristics:
+
+* Begins in squamous cells lining airways.
+* Strongly associated with smoking.
+* Usually develops near central airways.
+
+---
+
+#### Large Cell Carcinoma
+
+Characteristics:
+
+* Can occur anywhere in the lung.
+* Tends to grow rapidly.
+* Often diagnosed at advanced stages.
+
+---
+
+## 2. Small Cell Lung Cancer (SCLC)
+
+### Overview
+
+Accounts for approximately 10–15% of lung cancers.
+
+### Characteristics
+
+* Highly aggressive.
+* Grows rapidly.
+* Spreads early.
+* Strongly linked to smoking.
+
+### Stages
+
+#### Limited Stage
+
+Cancer remains within one side of the chest.
+
+#### Extensive Stage
+
+Cancer has spread beyond the chest.
+
+---
+
+# Causes and Risk Factors
+
+## Smoking
+
+The leading cause of lung cancer.
+
+Tobacco smoke contains thousands of chemicals, many of which are carcinogens.
+
+Risk increases with:
+
+* Number of cigarettes smoked
+* Years of smoking
+* Exposure to secondhand smoke
+
+---
+
+## Secondhand Smoke
+
+Non-smokers exposed to tobacco smoke also have increased risk.
+
+---
+
+## Radon Gas
+
+A naturally occurring radioactive gas that can accumulate in buildings.
+
+Long-term exposure increases lung cancer risk.
+
+---
+
+## Air Pollution
+
+Exposure to polluted air can contribute to lung cancer development.
+
+---
+
+## Occupational Exposures
+
+Examples include:
+
+* Asbestos
+* Arsenic
+* Chromium
+* Nickel
+* Diesel exhaust
+
+---
+
+## Family History
+
+Individuals with close relatives diagnosed with lung cancer may have elevated risk.
+
+---
+
+## Previous Radiation Therapy
+
+Radiation exposure to the chest can increase future risk.
+
+---
+
+# Signs and Symptoms
+
+Early lung cancer may not cause symptoms.
+
+As the disease progresses, symptoms may include:
+
+### Persistent Cough
+
+A cough that does not go away or worsens over time.
+
+---
+
+### Coughing Up Blood
+
+Even small amounts require medical evaluation.
+
+---
+
+### Chest Pain
+
+Pain may worsen with:
+
+* Breathing
+* Coughing
+* Laughing
+
+---
+
+### Shortness of Breath
+
+Due to airway blockage or reduced lung function.
+
+---
+
+### Wheezing
+
+Narrowed airways can produce wheezing sounds.
+
+---
+
+### Hoarseness
+
+Changes in voice quality.
+
+---
+
+### Frequent Lung Infections
+
+Examples:
+
+* Pneumonia
+* Bronchitis
+
+---
+
+### Unexplained Weight Loss
+
+Common in advanced cancers.
+
+---
+
+### Fatigue
+
+Persistent tiredness not relieved by rest.
+
+---
+
+# How Lung Cancer Develops
+
+The process typically involves:
+
+1. Exposure to carcinogens.
+2. DNA damage in lung cells.
+3. Accumulation of mutations.
+4. Formation of abnormal cells.
+5. Tumor growth.
+6. Invasion of nearby tissues.
+7. Metastasis.
+
+---
+
+# Common Sites of Metastasis
+
+Lung cancer often spreads to:
+
+### Brain
+
+May cause headaches and seizures.
+
+### Bones
+
+May cause pain and fractures.
+
+### Liver
+
+May cause abdominal discomfort and jaundice.
+
+### Adrenal Glands
+
+Often affected in advanced disease.
+
+---
+
+# Screening and Early Detection
+
+## Low-Dose CT Scan (LDCT)
+
+The most effective screening method for high-risk individuals.
+
+### Benefits
+
+* Detects cancer before symptoms appear.
+* Improves survival through early diagnosis.
+
+### Recommended for High-Risk Individuals
+
+Typically includes:
+
+* Older adults
+* Current or former heavy smokers
+
+---
+
+# Diagnosis
+
+## Medical History and Physical Examination
+
+Assessment of symptoms and risk factors.
+
+---
+
+## Imaging Tests
+
+### Chest X-ray
+
+May reveal suspicious abnormalities.
+
+---
+
+### CT Scan
+
+Provides detailed images of the lungs.
+
+---
+
+### PET Scan
+
+Helps identify active cancer and metastasis.
+
+---
+
+### MRI
+
+Useful for detecting spread to the brain.
+
+---
+
+## Sputum Cytology
+
+Microscopic examination of mucus from the lungs.
+
+---
+
+## Bronchoscopy
+
+A flexible tube is inserted into the airways for examination and tissue sampling.
+
+---
+
+## Biopsy
+
+Definitive diagnostic method.
+
+Types include:
+
+* Needle biopsy
+* Bronchoscopic biopsy
+* Surgical biopsy
+
+---
+
+# Staging of Non-Small Cell Lung Cancer
+
+## Stage I
+
+Cancer confined to the lung.
+
+---
+
+## Stage II
+
+Larger tumor and/or nearby lymph node involvement.
+
+---
+
+## Stage III
+
+Spread to regional lymph nodes and nearby structures.
+
+---
+
+## Stage IV
+
+Cancer has spread to distant organs.
+
+---
+
+# Treatment Options
+
+Treatment depends on:
+
+* Cancer type
+* Stage
+* Genetic mutations
+* Patient health
+
+---
+
+## Surgery
+
+Most effective for early-stage NSCLC.
+
+### Types
+
+#### Wedge Resection
+
+Removal of a small lung section.
+
+#### Lobectomy
+
+Removal of an entire lung lobe.
+
+#### Pneumonectomy
+
+Removal of an entire lung.
+
+---
+
+## Radiation Therapy
+
+Uses high-energy radiation to destroy cancer cells.
+
+Common uses:
+
+* Curative treatment
+* Symptom relief
+
+---
+
+## Chemotherapy
+
+Uses medications to kill rapidly dividing cells.
+
+May be given:
+
+* Before surgery
+* After surgery
+* For advanced disease
+
+---
+
+## Targeted Therapy
+
+Targets specific genetic mutations.
+
+Examples include mutations involving:
+
+* EGFR
+* ALK
+* ROS1
+* BRAF
+
+Targeted therapies often have fewer side effects than chemotherapy.
+
+---
+
+## Immunotherapy
+
+Helps the immune system recognize and attack cancer cells.
+
+Commonly used in advanced NSCLC.
+
+Examples include:
+
+* Pembrolizumab
+* Nivolumab
+* Atezolizumab
+
+---
+
+# Side Effects of Treatment
+
+## Surgery
+
+* Pain
+* Infection risk
+* Reduced lung function
+
+---
+
+## Chemotherapy
+
+* Hair loss
+* Nausea
+* Fatigue
+* Increased infection risk
+
+---
+
+## Radiation Therapy
+
+* Skin irritation
+* Fatigue
+* Difficulty swallowing
+
+---
+
+## Immunotherapy
+
+* Inflammation of organs
+* Skin reactions
+* Immune-related side effects
+
+---
+
+# Prevention
+
+## Avoid Smoking
+
+The most effective preventive measure.
+
+---
+
+## Avoid Secondhand Smoke
+
+Reduce exposure whenever possible.
+
+---
+
+## Test for Radon
+
+Especially in homes and workplaces.
+
+---
+
+## Use Workplace Safety Measures
+
+Protection against occupational carcinogens.
+
+---
+
+## Maintain Healthy Lifestyle Habits
+
+* Regular exercise
+* Healthy diet
+* Weight management
+
+---
+
+# Prognosis
+
+Prognosis depends on:
+
+* Stage at diagnosis
+* Cancer type
+* Genetic mutations
+* Overall health
+* Response to treatment
+
+### Early-Stage Disease
+
+Often potentially curable.
+
+### Advanced Disease
+
+Treatment focuses on prolonging survival and improving quality of life.
+
+---
+
+# Living with Lung Cancer
+
+Supportive care may include:
+
+### Pulmonary Rehabilitation
+
+Exercises to improve breathing.
+
+### Nutritional Support
+
+Maintaining adequate nutrition during treatment.
+
+### Psychological Counseling
+
+Managing emotional stress.
+
+### Palliative Care
+
+Improving comfort and quality of life.
+
+---
+
+# Key Takeaways
+
+* Lung cancer is one of the leading causes of cancer-related deaths worldwide.
+* The two major types are **Non-Small Cell Lung Cancer (NSCLC)** and **Small Cell Lung Cancer (SCLC)**.
+* Smoking is the most significant risk factor.
+* Common symptoms include persistent cough, chest pain, shortness of breath, and coughing up blood.
+* Low-dose CT scans help detect cancer early in high-risk individuals.
+* Diagnosis is confirmed through imaging and biopsy.
+* Treatment options include surgery, chemotherapy, radiation therapy, targeted therapy, and immunotherapy.
+* Early detection significantly improves survival rates.
+* Smoking prevention and cessation remain the most effective ways to reduce lung cancer risk.
+
+This document can serve as the complete **Lung Cancer** knowledge-base article for your Cancer RAG Chatbot.

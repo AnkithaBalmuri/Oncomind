@@ -1,0 +1,659 @@
+# 9. Blood Cancers
+
+## Overview
+
+Blood cancers, also known as **hematologic cancers**, are cancers that affect the blood, bone marrow, lymphatic system, and immune system. Unlike many other cancers, blood cancers usually do not form solid tumors. Instead, they affect the production and function of blood cells.
+
+Blood cancers interfere with the body's ability to:
+
+* Fight infections
+* Carry oxygen
+* Control bleeding
+* Maintain a healthy immune system
+
+The three major categories of blood cancer are:
+
+1. Leukemia
+2. Lymphoma
+3. Multiple Myeloma
+
+---
+
+# What is Blood?
+
+Blood consists of several important components.
+
+## Red Blood Cells (RBCs)
+
+Function:
+
+* Carry oxygen from the lungs to body tissues.
+* Remove carbon dioxide.
+
+---
+
+## White Blood Cells (WBCs)
+
+Function:
+
+* Protect the body from infections.
+* Support immune responses.
+
+---
+
+## Platelets
+
+Function:
+
+* Help blood clot.
+* Prevent excessive bleeding.
+
+---
+
+## Plasma
+
+Function:
+
+* Liquid portion of blood.
+* Transports nutrients, hormones, and waste products.
+
+---
+
+# What are Blood Cancers?
+
+Blood cancers occur when abnormal blood cells grow uncontrollably and interfere with normal blood cell production.
+
+### Effects of Blood Cancer
+
+* Reduced healthy blood cells
+* Increased infections
+* Anemia
+* Bleeding problems
+* Organ damage
+
+Most blood cancers begin in the bone marrow or lymphatic system.
+
+---
+
+# Bone Marrow and Lymphatic System
+
+## Bone Marrow
+
+Soft tissue inside bones responsible for producing blood cells.
+
+Produces:
+
+* Red blood cells
+* White blood cells
+* Platelets
+
+---
+
+## Lymphatic System
+
+Part of the immune system.
+
+Includes:
+
+* Lymph nodes
+* Spleen
+* Thymus
+* Lymphatic vessels
+
+Many blood cancers originate here.
+
+---
+
+# Major Types of Blood Cancer
+
+---
+
+# 1. Leukemia
+
+## Definition
+
+Leukemia is a cancer of blood-forming tissues, particularly the bone marrow.
+
+It results in the production of large numbers of abnormal white blood cells.
+
+These abnormal cells:
+
+* Do not function properly.
+* Crowd out healthy blood cells.
+
+---
+
+## Types of Leukemia
+
+### Acute Lymphoblastic Leukemia (ALL)
+
+Characteristics:
+
+* Rapidly progressing
+* Common in children
+
+Symptoms:
+
+* Fever
+* Fatigue
+* Easy bruising
+* Frequent infections
+
+---
+
+### Acute Myeloid Leukemia (AML)
+
+Characteristics:
+
+* Fast-growing
+* Common in adults
+
+Symptoms:
+
+* Weakness
+* Bleeding
+* Bone pain
+
+---
+
+### Chronic Lymphocytic Leukemia (CLL)
+
+Characteristics:
+
+* Slow-growing
+* Most common adult leukemia
+
+Symptoms:
+
+* Enlarged lymph nodes
+* Fatigue
+* Recurrent infections
+
+---
+
+### Chronic Myeloid Leukemia (CML)
+
+Characteristics:
+
+* Associated with the Philadelphia chromosome
+* Slow progression initially
+
+Symptoms:
+
+* Weight loss
+* Fatigue
+* Enlarged spleen
+
+---
+
+# Risk Factors for Leukemia
+
+* Radiation exposure
+* Benzene exposure
+* Smoking
+* Previous chemotherapy
+* Genetic disorders
+
+Examples:
+
+* Down Syndrome
+
+---
+
+# Diagnosis of Leukemia
+
+### Complete Blood Count (CBC)
+
+Evaluates blood cell abnormalities.
+
+---
+
+### Bone Marrow Biopsy
+
+Essential diagnostic procedure.
+
+---
+
+### Genetic Testing
+
+Identifies chromosomal abnormalities.
+
+---
+
+# Treatment of Leukemia
+
+### Chemotherapy
+
+Primary treatment for many leukemias.
+
+---
+
+### Targeted Therapy
+
+Examples:
+
+* Imatinib
+* Dasatinib
+
+---
+
+### Stem Cell Transplantation
+
+Replacement of diseased bone marrow.
+
+---
+
+### Immunotherapy
+
+Enhances immune response against cancer cells.
+
+---
+
+# 2. Lymphoma
+
+## Definition
+
+Lymphoma is cancer of the lymphatic system.
+
+It develops from lymphocytes, a type of white blood cell.
+
+---
+
+## Types of Lymphoma
+
+### Hodgkin Lymphoma
+
+Characteristics:
+
+* Presence of Reed-Sternberg cells
+* Often affects young adults
+
+---
+
+### Non-Hodgkin Lymphoma (NHL)
+
+Characteristics:
+
+* Large group of lymphatic cancers
+* More common than Hodgkin lymphoma
+
+---
+
+# Symptoms of Lymphoma
+
+### Enlarged Lymph Nodes
+
+Common locations:
+
+* Neck
+* Armpits
+* Groin
+
+---
+
+### Fever
+
+Persistent or recurrent.
+
+---
+
+### Night Sweats
+
+Excessive sweating during sleep.
+
+---
+
+### Unexplained Weight Loss
+
+Often referred to as a "B symptom."
+
+---
+
+### Fatigue
+
+Persistent tiredness.
+
+---
+
+# Risk Factors for Lymphoma
+
+* Weakened immune system
+* Autoimmune diseases
+* Viral infections
+
+Examples:
+
+* Human Immunodeficiency Virus Infection
+* Epstein-Barr Virus Infection
+
+---
+
+# Diagnosis of Lymphoma
+
+### Lymph Node Biopsy
+
+Most important diagnostic test.
+
+---
+
+### CT Scan
+
+Evaluates disease spread.
+
+---
+
+### PET Scan
+
+Detects active lymphoma sites.
+
+---
+
+### Bone Marrow Examination
+
+Determines marrow involvement.
+
+---
+
+# Treatment of Lymphoma
+
+### Chemotherapy
+
+Common first-line treatment.
+
+---
+
+### Radiation Therapy
+
+Used in localized disease.
+
+---
+
+### Immunotherapy
+
+Examples:
+
+* Rituximab
+* Pembrolizumab
+
+---
+
+### Stem Cell Transplantation
+
+Used in selected patients.
+
+---
+
+# 3. Multiple Myeloma
+
+## Definition
+
+Multiple myeloma is a cancer of plasma cells.
+
+Plasma cells normally produce antibodies that help fight infections.
+
+---
+
+## How Multiple Myeloma Develops
+
+Abnormal plasma cells:
+
+* Multiply excessively
+* Produce abnormal proteins
+* Damage bones and kidneys
+
+---
+
+## Commonly Affected Areas
+
+* Spine
+* Skull
+* Pelvis
+* Ribs
+
+---
+
+# Symptoms of Multiple Myeloma
+
+### Bone Pain
+
+Especially in the back and ribs.
+
+---
+
+### Frequent Infections
+
+Due to weakened immunity.
+
+---
+
+### Fatigue
+
+Often caused by anemia.
+
+---
+
+### Kidney Problems
+
+Abnormal proteins may damage kidneys.
+
+---
+
+### High Calcium Levels
+
+Resulting from bone destruction.
+
+---
+
+# Risk Factors for Multiple Myeloma
+
+* Increasing age
+* Family history
+* Obesity
+* Exposure to certain chemicals
+
+---
+
+# Diagnosis of Multiple Myeloma
+
+### Blood Tests
+
+Detect abnormal proteins.
+
+---
+
+### Urine Tests
+
+Identify myeloma proteins.
+
+---
+
+### Bone Marrow Biopsy
+
+Confirms diagnosis.
+
+---
+
+### Imaging Studies
+
+Examples:
+
+* X-rays
+* MRI
+* CT scans
+* PET scans
+
+---
+
+# Treatment of Multiple Myeloma
+
+### Targeted Therapy
+
+Examples:
+
+* Bortezomib
+* Carfilzomib
+
+---
+
+### Immunomodulatory Drugs
+
+Examples:
+
+* Lenalidomide
+* Pomalidomide
+
+---
+
+### Chemotherapy
+
+Used in selected cases.
+
+---
+
+### Stem Cell Transplantation
+
+Standard treatment for eligible patients.
+
+---
+
+# Blood Cancer Symptoms Summary
+
+| Symptom              | Leukemia  | Lymphoma | Multiple Myeloma |
+| -------------------- | --------- | -------- | ---------------- |
+| Fatigue              | ✓         | ✓        | ✓                |
+| Fever                | ✓         | ✓        | Sometimes        |
+| Weight Loss          | ✓         | ✓        | ✓                |
+| Enlarged Lymph Nodes | Sometimes | ✓        | Rare             |
+| Bone Pain            | Sometimes | Rare     | ✓                |
+| Frequent Infections  | ✓         | ✓        | ✓                |
+| Easy Bleeding        | ✓         | Rare     | Sometimes        |
+
+---
+
+# Staging of Blood Cancers
+
+## Leukemia
+
+Often classified by:
+
+* Acute or chronic
+* Cell type involved
+
+---
+
+## Lymphoma
+
+Usually staged from:
+
+* Stage I
+* Stage II
+* Stage III
+* Stage IV
+
+---
+
+## Multiple Myeloma
+
+Commonly staged using:
+
+* International Staging System (ISS)
+
+---
+
+# Complications of Blood Cancers
+
+### Severe Infections
+
+Due to impaired immunity.
+
+---
+
+### Anemia
+
+Reduced oxygen-carrying capacity.
+
+---
+
+### Bleeding Disorders
+
+Due to low platelet counts.
+
+---
+
+### Organ Damage
+
+May affect:
+
+* Liver
+* Kidneys
+* Spleen
+
+---
+
+# Prevention
+
+Most blood cancers cannot be completely prevented.
+
+Risk reduction strategies include:
+
+* Avoid smoking
+* Limit exposure to toxic chemicals
+* Minimize unnecessary radiation exposure
+* Maintain healthy body weight
+* Regular medical checkups
+
+---
+
+# Prognosis
+
+Prognosis depends on:
+
+* Cancer type
+* Stage
+* Genetic abnormalities
+* Patient age
+* Response to treatment
+
+Modern therapies have greatly improved survival rates for many blood cancers.
+
+---
+
+# Living with Blood Cancer
+
+Supportive care may include:
+
+### Infection Prevention
+
+Vaccinations and hygiene measures.
+
+---
+
+### Nutritional Support
+
+Balanced diet during treatment.
+
+---
+
+### Psychological Support
+
+Managing emotional and mental health.
+
+---
+
+### Long-Term Follow-Up
+
+Monitoring for recurrence and treatment effects.
+
+---
+
+# Key Takeaways
+
+* Blood cancers affect blood cells, bone marrow, and the lymphatic system.
+* The three major types are **Leukemia, Lymphoma, and Multiple Myeloma**.
+* Symptoms often include fatigue, infections, weight loss, fever, and abnormal bleeding.
+* Diagnosis commonly involves blood tests, imaging studies, and bone marrow or lymph node biopsies.
+* Treatments include chemotherapy, targeted therapy, immunotherapy, radiation therapy, and stem cell transplantation.
+* Advances in treatment have significantly improved survival and quality of life.
+* Early diagnosis and specialized care are critical for optimal outcomes.
+
+This document can serve as the complete **Blood Cancers** knowledge-base article for your Cancer RAG chatbot.

@@ -1,0 +1,577 @@
+# 11. Cancer Symptoms and Warning Signs
+
+## Overview
+
+Cancer can cause a wide range of symptoms depending on its type, location, size, and stage. In many cases, early-stage cancer may not cause noticeable symptoms. As cancer grows and spreads, symptoms become more apparent.
+
+Recognizing potential warning signs can lead to earlier diagnosis and treatment, which often improves outcomes. However, many cancer symptoms can also be caused by non-cancerous conditions, so medical evaluation is important.
+
+---
+
+# What Are Cancer Symptoms?
+
+Cancer symptoms are physical or functional changes caused by:
+
+* Growth of a tumor
+* Invasion of nearby tissues
+* Hormonal changes
+* Immune system responses
+* Spread of cancer to other organs
+
+Symptoms vary widely among individuals and cancer types.
+
+---
+
+# General Warning Signs of Cancer
+
+Certain symptoms may occur in many different types of cancer.
+
+---
+
+## 1. Unexplained Weight Loss
+
+### Description
+
+Losing weight without changes in diet or exercise.
+
+### Why It Happens
+
+Cancer cells consume large amounts of energy and may alter metabolism.
+
+### Common Associated Cancers
+
+* Pancreatic cancer
+* Lung cancer
+* Stomach cancer
+* Esophageal cancer
+
+### Warning Sign
+
+Unintentional loss of 10 pounds (4.5 kg) or more should be evaluated.
+
+---
+
+## 2. Persistent Fatigue
+
+### Description
+
+Extreme tiredness that does not improve with rest.
+
+### Causes
+
+* Anemia
+* Increased energy demands
+* Inflammation
+* Treatment effects
+
+### Common Associated Cancers
+
+* Leukemia
+* Lymphoma
+* Colon cancer
+
+---
+
+## 3. Fever
+
+### Description
+
+Repeated or persistent fever without infection.
+
+### Causes
+
+Cancer may trigger immune responses that elevate body temperature.
+
+### Common Associated Cancers
+
+* Leukemia
+* Lymphoma
+* Kidney cancer
+
+---
+
+## 4. Pain
+
+### Description
+
+Persistent or unexplained pain.
+
+### Examples
+
+* Bone pain
+* Headaches
+* Abdominal pain
+* Back pain
+
+### Common Associated Cancers
+
+* Bone cancer
+* Brain tumors
+* Pancreatic cancer
+
+---
+
+# Changes in the Skin
+
+The skin may provide important clues about underlying cancer.
+
+---
+
+## Yellowing of Skin (Jaundice)
+
+May indicate:
+
+* Liver cancer
+* Pancreatic cancer
+
+---
+
+## Darkening of Skin
+
+Can occur with certain cancers or hormonal changes.
+
+---
+
+## Persistent Itching
+
+Sometimes associated with:
+
+* Lymphoma
+* Liver disease
+
+---
+
+## New or Changing Moles
+
+Important warning sign of melanoma.
+
+### ABCDE Rule
+
+**A – Asymmetry**
+One half differs from the other.
+
+**B – Border**
+Irregular edges.
+
+**C – Color**
+Uneven colors.
+
+**D – Diameter**
+Greater than 6 mm.
+
+**E – Evolving**
+Changing size, shape, or color.
+
+---
+
+# Lumps and Swellings
+
+## New Lump or Mass
+
+A painless lump can be an early sign of cancer.
+
+### Common Locations
+
+* Breast
+* Neck
+* Testicle
+* Armpit
+
+### Associated Cancers
+
+* Breast cancer
+* Thyroid cancer
+* Lymphoma
+
+---
+
+## Enlarged Lymph Nodes
+
+May indicate:
+
+* Lymphoma
+* Leukemia
+* Metastatic cancer
+
+Common sites:
+
+* Neck
+* Armpits
+* Groin
+
+---
+
+# Changes in Bowel Habits
+
+Persistent bowel changes should be evaluated.
+
+---
+
+## Constipation
+
+Can be associated with:
+
+* Colorectal cancer
+* Ovarian cancer
+
+---
+
+## Diarrhea
+
+Persistent diarrhea may indicate gastrointestinal cancers.
+
+---
+
+## Narrow Stools
+
+May suggest a blockage caused by colorectal cancer.
+
+---
+
+## Blood in Stool
+
+May appear:
+
+* Bright red
+* Dark red
+* Black
+
+Associated cancers:
+
+* Colorectal cancer
+* Anal cancer
+
+---
+
+# Changes in Urination
+
+## Blood in Urine (Hematuria)
+
+Possible causes:
+
+* Bladder cancer
+* Kidney cancer
+
+---
+
+## Frequent Urination
+
+May occur with:
+
+* Prostate cancer
+* Bladder cancer
+
+---
+
+## Painful Urination
+
+Requires medical evaluation.
+
+---
+
+# Persistent Cough or Hoarseness
+
+## Chronic Cough
+
+A cough lasting several weeks may indicate:
+
+* Lung cancer
+* Throat cancer
+
+---
+
+## Coughing Up Blood
+
+A serious warning sign requiring immediate medical attention.
+
+---
+
+## Hoarseness
+
+Persistent voice changes may indicate:
+
+* Laryngeal cancer
+* Thyroid cancer
+
+---
+
+# Difficulty Swallowing
+
+## Dysphagia
+
+Difficulty swallowing food or liquids.
+
+### Associated Cancers
+
+* Esophageal cancer
+* Throat cancer
+* Stomach cancer
+
+---
+
+# Unusual Bleeding or Discharge
+
+Abnormal bleeding can be an important warning sign.
+
+---
+
+## Vaginal Bleeding
+
+Especially concerning:
+
+* After menopause
+* Between periods
+* After intercourse
+
+Associated cancers:
+
+* Cervical cancer
+* Endometrial cancer
+
+---
+
+## Nipple Discharge
+
+Especially if bloody.
+
+Associated with:
+
+* Breast cancer
+
+---
+
+## Rectal Bleeding
+
+May indicate:
+
+* Colorectal cancer
+* Anal cancer
+
+---
+
+# Mouth Changes
+
+## Persistent Mouth Sores
+
+Sores that do not heal within two weeks require evaluation.
+
+---
+
+## White or Red Patches
+
+Possible signs of oral cancer.
+
+---
+
+## Difficulty Moving the Jaw
+
+Can occur with advanced oral cancers.
+
+---
+
+# Neurological Symptoms
+
+Cancer affecting the brain or nervous system may cause:
+
+---
+
+## Persistent Headaches
+
+Especially if worsening over time.
+
+---
+
+## Seizures
+
+Can occur with brain tumors.
+
+---
+
+## Weakness or Numbness
+
+May indicate nervous system involvement.
+
+---
+
+## Vision Changes
+
+Examples:
+
+* Blurred vision
+* Double vision
+
+---
+
+# Respiratory Symptoms
+
+## Shortness of Breath
+
+Possible causes:
+
+* Lung cancer
+* Pleural tumors
+
+---
+
+## Chest Pain
+
+Persistent pain should be investigated.
+
+---
+
+## Wheezing
+
+May result from airway obstruction.
+
+---
+
+# Bone and Joint Symptoms
+
+## Bone Pain
+
+Common in:
+
+* Bone cancer
+* Multiple myeloma
+* Metastatic cancer
+
+---
+
+## Fractures
+
+Bones weakened by cancer may fracture more easily.
+
+---
+
+# Symptoms Related to Specific Cancers
+
+## Breast Cancer
+
+Common symptoms:
+
+* Breast lump
+* Nipple changes
+* Skin dimpling
+
+---
+
+## Lung Cancer
+
+Common symptoms:
+
+* Persistent cough
+* Chest pain
+* Shortness of breath
+
+---
+
+## Prostate Cancer
+
+Common symptoms:
+
+* Frequent urination
+* Weak urine stream
+* Blood in urine
+
+---
+
+## Cervical Cancer
+
+Common symptoms:
+
+* Abnormal vaginal bleeding
+* Pelvic pain
+
+---
+
+## Colorectal Cancer
+
+Common symptoms:
+
+* Blood in stool
+* Bowel habit changes
+* Weight loss
+
+---
+
+## Skin Cancer
+
+Common symptoms:
+
+* Changing mole
+* Non-healing skin lesion
+
+---
+
+# Symptoms of Advanced Cancer
+
+When cancer spreads, symptoms may include:
+
+### Severe Fatigue
+
+Persistent exhaustion.
+
+---
+
+### Significant Weight Loss
+
+Often referred to as cancer cachexia.
+
+---
+
+### Chronic Pain
+
+May involve bones or internal organs.
+
+---
+
+### Organ Dysfunction
+
+Depending on the location of metastasis.
+
+---
+
+# When to Seek Medical Attention
+
+A healthcare professional should be consulted if any of the following persist:
+
+* Unexplained weight loss
+* Persistent fatigue
+* New lumps
+* Blood in stool or urine
+* Persistent cough
+* Difficulty swallowing
+* Abnormal bleeding
+* Changes in moles
+* Ongoing pain
+
+Persistence for more than a few weeks generally warrants evaluation.
+
+---
+
+# Importance of Early Detection
+
+Many cancers are highly treatable when diagnosed early.
+
+Benefits of early detection:
+
+* Less aggressive treatment
+* Higher survival rates
+* Better quality of life
+* Reduced complications
+
+Screening programs play an important role in detecting cancer before symptoms develop.
+
+---
+
+# Key Takeaways
+
+* Cancer symptoms vary depending on the type and stage of disease.
+* Early cancer may cause no symptoms.
+* Common warning signs include unexplained weight loss, fatigue, pain, persistent cough, abnormal bleeding, and new lumps.
+* Changes in skin, bowel habits, urination, and swallowing should not be ignored.
+* Many symptoms can be caused by non-cancerous conditions, but persistent symptoms require medical evaluation.
+* Early detection significantly improves treatment outcomes and survival.
+* Awareness of warning signs helps individuals seek timely medical care.
+
+This document can serve as the complete **Cancer Symptoms and Warning Signs** knowledge-base article for your Cancer RAG chatbot.
