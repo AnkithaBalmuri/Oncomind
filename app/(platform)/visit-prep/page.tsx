@@ -3,7 +3,7 @@
 import { useState } from "react";
 import { CheckSquare, ChevronDown, ChevronUp, Printer, Square } from "lucide-react";
 import { Button } from "@/components/ui/button";
-import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
+import { Card, CardContent } from "@/components/ui/card";
 import { PageHeader } from "@/components/shared/page-header";
 import { useTranslation } from "@/lib/translations";
 import { visitPrepTranslations } from "@/lib/visit-prep-translations";

@@ -66,8 +66,10 @@ export async function extractFromBuffer(buffer: Buffer, fileName: string, type: 
 
   // PDF extraction using pdf-parse with OCR fallback
   try {
-    const { default: pdfParse } = (await import('pdf-parse')) as any;
-    const result = await pdfParse(buffer);
+    const { PDFParse } = await import("pdf-parse");
+    const parser = new PDFParse({ data: buffer });
+    const result = await parser.getText();
+    await parser.destroy();
     const text = result.text?.trim() || "";
     if (text) {
       return {
@@ -85,7 +87,7 @@ export async function extractFromBuffer(buffer: Buffer, fileName: string, type: 
     const { fromPath: pdf2picFromPath } = await import('pdf2pic');
     const options = { density: 150, format: "png", width: 1240, height: 1754 };
     const converter = pdf2picFromPath(tempPath, options);
-    const pageCount = result.numpages || 1;
+    const pageCount = result.total || 1;
     let ocrText = "";
     for (let i = 1; i <= pageCount; i++) {
       const image = await converter(i);
@@ -119,7 +121,6 @@ export async function extractFromFile(filePath: string, fileName: string, type: 
 
 // Helper: write a Buffer to a temporary PDF file and return its path
 import { writeFile, unlink } from "node:fs/promises";
-import { tmpdir } from "node:os";
 import { join } from "node:path";
 import { randomUUID } from "crypto";
 

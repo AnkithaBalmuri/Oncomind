@@ -28,8 +28,13 @@ Open [http://localhost:3000](http://localhost:3000).
 Copy `.env.example` to `.env.local` and update values when connecting real services.
 
 ```bash
-NEXT_PUBLIC_API_URL=https://api.oncomind.ai
+NEXT_PUBLIC_API_URL=
 NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=pk_test_replace_me
+CLERK_SECRET_KEY=sk_test_replace_me
+GROQ_API_KEY=gsk_replace_me
+PINECONE_API_KEY=pcsk_replace_me
+PINECONE_INDEX_NAME=cancer-ai
+PINECONE_HOST=
 ```
 
 The app runs fully with mock data when these values are not configured.
@@ -64,16 +69,21 @@ The app includes Clerk as a dependency and wraps the application with `ClerkProv
 
 ## Deployment
 
-The project includes `vercel.json` and is ready for Vercel:
+The project includes `vercel.json` and is ready for Vercel. Secret values are intentionally not stored in `vercel.json`; add them in Vercel Project Settings -> Environment Variables.
 
 ```bash
 npm run build
 ```
 
-Set the Vercel environment variables:
+Set these Vercel environment variables only when you want live integrations:
 
 - `NEXT_PUBLIC_API_URL`
 - `NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY`
+- `CLERK_SECRET_KEY`
+- `GROQ_API_KEY`
+- `PINECONE_API_KEY`
+- `PINECONE_INDEX_NAME`
+- `PINECONE_HOST`
 
 ## Notes
 

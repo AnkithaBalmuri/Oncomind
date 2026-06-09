@@ -5,8 +5,7 @@ import { Bell, CalendarDays, CheckCircle2, Circle, Clock, Pill, Plus, Trash2, X 
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { PageHeader } from "@/components/shared/page-header";
-import { Badge } from "@/components/ui/badge";
-import { useTranslation, type TranslationKey } from "@/lib/translations";
+import { useTranslation } from "@/lib/translations";
 
 type EventType = "appointment" | "test" | "medication";
 

@@ -2,7 +2,6 @@
 
 import { useState } from "react";
 import { Check, X } from "lucide-react";
-import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { PageHeader } from "@/components/shared/page-header";
 import { useTranslation } from "@/lib/translations";
 

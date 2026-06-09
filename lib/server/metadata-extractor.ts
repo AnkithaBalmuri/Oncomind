@@ -153,7 +153,6 @@ Be precise. Categorize carefully. If dates or doctors are missing, infer a reali
   const date = new Date().toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric" });
 
   // 8. Summary & Findings
-  const nameWithoutExt = fileName.replace(/\.[^/.]+$/, "").replace(/[_-]/g, " ");
   const summary = `Extracted patient health report detailing ${category.toLowerCase()} variables for ${cancerType || "general assessment"}.`;
   
   const keyFindings = [

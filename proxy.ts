@@ -14,7 +14,7 @@ const protectedPrefixes = [
   "/settings"
 ];
 
-export function middleware(request: NextRequest) {
+export function proxy(request: NextRequest) {
   const clerkConfigured = Boolean(process.env.NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY);
   const isProtected = protectedPrefixes.some((prefix) => request.nextUrl.pathname.startsWith(prefix));
 

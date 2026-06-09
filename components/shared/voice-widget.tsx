@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useRef, useState } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
 import { Bot, Loader2, Mic, MicOff, Pause, Play, RotateCcw, Volume2 } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Switch } from "@/components/ui/switch";
@@ -38,33 +38,6 @@ function getBarHeight(index: number, state: VoiceState): number {
   return 6;
 }
 
-const stateConfig: Record<VoiceState, { label: string; color: string; barColor: string; ringColor: string }> = {
-  idle: {
-    label: "Ready to listen",
-    color: "bg-primary",
-    barColor: "bg-primary/40",
-    ringColor: ""
-  },
-  listening: {
-    label: "Listening...",
-    color: "bg-rose-500",
-    barColor: "bg-rose-400",
-    ringColor: "animate-pulse-ring"
-  },
-  processing: {
-    label: "Processing...",
-    color: "bg-amber-500",
-    barColor: "bg-amber-400",
-    ringColor: "animate-pulse-ring-blue"
-  },
-  speaking: {
-    label: "Speaking response",
-    color: "bg-emerald-500",
-    barColor: "bg-emerald-400",
-    ringColor: "animate-pulse-ring"
-  }
-};
-
 export function VoiceWidget() {
   const { t, language } = useTranslation();
   const voiceMode = useSettingsStore((state) => state.voiceMode);
@@ -75,15 +48,15 @@ export function VoiceWidget() {
   const [transcript, setTranscript] = useState("");
   const [voiceAnswer, setVoiceAnswer] = useState("");
 
-  const defaultAnswers: Record<string, string> = {
+  const defaultAnswers = useMemo<Record<string, string>>(() => ({
     Telugu: "నేను అప్‌లోడ్ చేసిన క్యాన్సర్ నివేదికలను వివరించడంలో, బయోమార్కర్లను సంగ్రహించడంలో మరియు వైద్యుని సందర్శన ప్రశ్నలను సూచించడంలో సహాయపడగలను.",
     Hindi: "मैं अपलोड की गई कैंसर रिपोर्टों को समझाने, बायोमार्कर को संक्षेप में प्रस्तुत करने और डॉक्टर के पास जाने के लिए प्रश्नों का सुझाव देने में मदद कर सकता हूँ।",
     English: "I can help explain uploaded cancer reports, summarize biomarkers, suggest doctor visit questions, and remind you to confirm medical decisions with your oncology team."
-  };
+  }), []);
 
   useEffect(() => {
     setVoiceAnswer(defaultAnswers[language] || defaultAnswers.English);
-  }, [language]);
+  }, [defaultAnswers, language]);
 
   const recognitionRef = useRef<SpeechRecognitionLike | null>(null);
   const transcriptRef = useRef("");
@@ -162,6 +135,8 @@ export function VoiceWidget() {
     return () => {
       if ("speechSynthesis" in window) window.speechSynthesis.cancel();
     };
+  // SpeechRecognition is initialized once; language changes are applied below.
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   // Update recognition language dynamically

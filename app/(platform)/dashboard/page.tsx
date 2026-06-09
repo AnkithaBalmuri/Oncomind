@@ -13,7 +13,6 @@ import {
   Mic,
   Pill,
   Search,
-  TrendingUp,
   Upload,
   ShieldCheck,
   ClipboardList,
@@ -23,7 +22,6 @@ import {
 import { Card, CardContent } from "@/components/ui/card";
 import { PatientProfilePanel } from "@/components/shared/patient-profile-panel";
 import { useTranslation, translations } from "@/lib/translations";
-import { useSettingsStore } from "@/store/settings-store";
 import type { UploadedDocument } from "@/types";
 import { Button } from "@/components/ui/button";
 

@@ -1,12 +1,12 @@
 "use client";
 
 import { useMemo, useState } from "react";
-import { Filter, Mail, MapPin, Phone, SearchX, Users } from "lucide-react";
+import { Filter, Mail, MapPin, SearchX, Users } from "lucide-react";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
 import { trials, CANCER_TYPES, TRIAL_COUNTRIES, TRIAL_PHASES, TRIAL_STATUSES, TREATMENT_TYPES } from "@/lib/mock-data";
-import { useTranslation, type TranslationKey } from "@/lib/translations";
+import { useTranslation } from "@/lib/translations";
 
 const statusColors: Record<string, string> = {
   "Recruiting": "bg-emerald-50 text-emerald-700 border-emerald-200",
